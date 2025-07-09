@@ -1,0 +1,1001 @@
+engine_cc,num_cylinders,fuel_type,transmission,vehicle_weight,num_gears,body_type,air_drag_coeff,rpm_at_max_torque,turbocharged,maintenance_score,climate_control,region,mileage_kmpl
+1800,3,Petrol,Automatic,1099,7,Compact SUV,0.28,1500,0,0.82,1,Highway,20.01
+2000,3,Diesel,Manual,938,6,Sedan,0.34,2000,1,0.83,1,Urban,23.22
+1500,6,Hybrid,Manual,1158,6,Hatchback,0.26,3500,1,0.91,1,Urban,27.25
+2000,4,Electric,Automatic,1635,5,Sedan,0.26,3000,1,0.71,0,Urban,29.97
+2000,3,Hybrid,Manual,2322,5,Hatchback,0.35,3000,1,0.54,0,Highway,23.73
+1200,6,Petrol,Manual,2208,4,Hatchback,0.32,2000,1,0.64,0,Highway,19.79
+1500,4,Hybrid,Manual,2427,5,Compact SUV,0.33,2000,1,0.99,0,Urban,21.71
+1500,3,Electric,Manual,2103,5,Sedan,0.28,1500,0,0.8,0,Urban,25.24
+1500,4,Hybrid,Automatic,2460,6,SUV,0.32,2500,0,0.85,1,Highway,22.79
+2000,6,Petrol,Automatic,1282,5,Compact SUV,0.31,2000,1,0.5,0,Highway,22.46
+1800,3,Diesel,Manual,1708,6,Compact SUV,0.31,2500,1,0.76,0,Urban,21.92
+1500,4,Hybrid,Manual,1934,6,Hatchback,0.32,2000,0,0.52,1,Highway,22.97
+2000,3,Petrol,Manual,1665,5,SUV,0.31,3500,0,0.78,1,Highway,20.85
+1200,4,Petrol,Automatic,938,4,Sedan,0.29,3500,0,0.96,0,Highway,21.24
+1800,6,Electric,Automatic,1795,4,SUV,0.28,1500,1,0.98,0,Urban,29.65
+1200,6,Electric,Automatic,1234,7,SUV,0.33,1500,1,0.77,1,Urban,31.24
+1800,3,Hybrid,Automatic,1308,7,SUV,0.27,2500,1,0.73,0,Highway,27.67
+2000,4,Diesel,Manual,1072,5,SUV,0.32,2000,1,0.97,0,Urban,22.59
+1000,3,Petrol,Manual,1922,4,SUV,0.27,3000,0,0.84,0,Highway,18.13
+1800,3,Hybrid,Manual,903,6,Hatchback,0.31,1500,0,0.53,1,Highway,26.8
+1200,4,Petrol,Automatic,2037,7,Hatchback,0.32,3000,0,0.73,0,Urban,16.25
+2000,4,Petrol,Manual,2487,6,Compact SUV,0.27,3000,0,0.62,0,Urban,12.15
+1800,4,Diesel,Automatic,1561,7,Hatchback,0.26,2000,1,0.73,1,Urban,21.99
+1000,6,Diesel,Automatic,1586,5,Compact SUV,0.26,2500,1,0.73,1,Highway,27.04
+1000,3,Hybrid,Manual,964,4,Compact SUV,0.31,2000,0,0.79,1,Highway,29.02
+1500,3,Diesel,Manual,1798,7,Sedan,0.33,1500,0,0.68,0,Urban,24.02
+1500,6,Diesel,Manual,1319,4,SUV,0.25,3000,0,0.58,1,Urban,20.72
+1200,4,Hybrid,Automatic,2107,6,Hatchback,0.32,2000,0,0.75,0,Urban,18.96
+1800,6,Diesel,Automatic,1316,5,Sedan,0.28,2000,0,0.92,1,Highway,23.81
+1800,6,Electric,Manual,1456,4,Hatchback,0.3,2000,1,0.83,0,Highway,34.85
+1500,6,Petrol,Manual,1412,5,Compact SUV,0.34,1500,1,0.67,1,Highway,22.61
+1800,3,Petrol,Automatic,963,4,Hatchback,0.28,2500,0,0.97,0,Urban,18.91
+1800,6,Petrol,Manual,2482,6,SUV,0.3,2000,0,0.96,0,Urban,15.7
+1000,3,Petrol,Automatic,863,6,Compact SUV,0.25,1500,0,0.6,1,Highway,21.05
+1500,3,Hybrid,Automatic,1914,5,Compact SUV,0.26,3000,1,0.52,1,Urban,21.27
+2000,3,Petrol,Manual,1940,6,Sedan,0.28,3500,1,0.87,0,Urban,13.32
+1500,4,Petrol,Manual,1066,7,SUV,0.25,1500,1,0.91,1,Urban,22.24
+2000,3,Petrol,Manual,2382,4,Compact SUV,0.31,3500,0,0.98,0,Urban,14.0
+1000,3,Petrol,Manual,1963,6,SUV,0.29,2000,1,0.94,1,Highway,19.05
+1200,4,Electric,Automatic,1045,7,Hatchback,0.3,2000,0,0.8,1,Urban,30.85
+1800,3,Petrol,Automatic,2484,5,SUV,0.27,1500,1,0.77,0,Highway,17.75
+1000,6,Electric,Automatic,1194,7,Compact SUV,0.28,3500,1,0.51,1,Highway,33.49
+1800,6,Hybrid,Manual,2310,5,Sedan,0.32,2000,1,0.62,1,Urban,22.27
+1200,3,Diesel,Automatic,1275,5,Compact SUV,0.35,3000,0,0.73,0,Highway,22.5
+1200,4,Petrol,Manual,2340,4,SUV,0.26,2500,0,0.81,0,Highway,18.4
+1000,6,Diesel,Manual,1776,4,SUV,0.34,2500,1,0.78,1,Urban,23.71
+1200,4,Diesel,Manual,2007,7,Compact SUV,0.31,2000,0,0.87,0,Highway,21.12
+2000,4,Hybrid,Manual,1843,4,SUV,0.31,3500,0,0.64,1,Highway,22.69
+1200,6,Diesel,Manual,1357,4,Hatchback,0.3,2000,0,0.78,1,Highway,25.92
+1800,4,Electric,Manual,1817,4,Compact SUV,0.26,3500,0,0.54,0,Highway,28.95
+1800,6,Diesel,Automatic,2347,7,Sedan,0.26,3000,0,0.71,0,Highway,19.43
+1800,4,Diesel,Manual,2405,6,Compact SUV,0.31,3500,0,0.88,0,Highway,19.14
+1800,6,Diesel,Automatic,2352,4,Hatchback,0.28,2000,0,0.85,0,Highway,18.3
+2000,3,Petrol,Automatic,1682,4,Hatchback,0.34,3000,1,1.0,0,Highway,22.6
+1500,6,Petrol,Manual,946,7,Hatchback,0.29,1500,0,0.64,0,Urban,20.89
+1000,6,Electric,Manual,1465,6,Hatchback,0.26,2500,0,0.75,1,Urban,32.21
+1800,6,Electric,Manual,2127,4,Hatchback,0.32,2000,1,0.66,1,Urban,24.07
+1200,6,Petrol,Automatic,1419,5,Sedan,0.28,2000,1,0.72,0,Highway,25.08
+1800,4,Electric,Manual,1619,7,SUV,0.3,2000,1,0.93,1,Highway,33.36
+1200,3,Petrol,Automatic,1663,4,Hatchback,0.32,3000,1,0.84,1,Highway,21.58
+1200,6,Hybrid,Manual,1381,4,Hatchback,0.34,1500,0,0.94,1,Urban,25.29
+1800,4,Diesel,Manual,1822,5,Compact SUV,0.33,3500,1,0.6,1,Urban,16.17
+2000,3,Diesel,Automatic,1494,5,Sedan,0.32,1500,1,0.94,0,Urban,20.91
+1200,3,Electric,Automatic,2051,7,Sedan,0.32,3000,0,0.53,1,Highway,27.06
+1200,3,Petrol,Manual,1925,7,SUV,0.34,2000,0,0.94,1,Urban,17.71
+1800,3,Petrol,Automatic,2410,5,Sedan,0.28,2500,0,0.66,0,Urban,14.71
+1200,6,Electric,Automatic,2240,7,Compact SUV,0.25,2000,1,0.66,0,Highway,28.43
+1200,6,Petrol,Automatic,2039,5,Compact SUV,0.28,3500,0,0.76,0,Urban,14.06
+1800,4,Hybrid,Automatic,1206,4,SUV,0.27,2500,1,0.97,0,Highway,26.48
+1800,4,Diesel,Automatic,1198,5,Compact SUV,0.32,2000,0,0.52,1,Urban,20.55
+1000,4,Electric,Manual,1514,5,Hatchback,0.31,2500,0,0.68,0,Highway,32.79
+2000,3,Electric,Manual,1503,6,Hatchback,0.31,1500,1,0.93,1,Highway,32.65
+2000,3,Petrol,Automatic,1560,5,Compact SUV,0.25,3000,0,0.7,1,Highway,20.72
+1200,6,Electric,Manual,1298,5,SUV,0.32,2000,0,0.6,0,Highway,32.86
+2000,3,Hybrid,Manual,2288,6,Sedan,0.28,3500,0,0.71,0,Highway,21.33
+1200,3,Petrol,Automatic,1773,7,SUV,0.32,1500,0,0.69,0,Urban,20.34
+1000,3,Petrol,Manual,881,6,Sedan,0.31,2000,0,0.96,0,Highway,23.19
+1800,4,Petrol,Automatic,1403,4,Compact SUV,0.28,1500,1,0.88,0,Highway,20.7
+1800,4,Petrol,Automatic,1571,6,Compact SUV,0.26,3500,1,0.75,0,Highway,22.33
+1800,6,Hybrid,Manual,1702,4,Hatchback,0.26,2000,0,0.99,1,Highway,27.18
+2000,3,Petrol,Automatic,1164,7,Sedan,0.33,3500,1,0.73,1,Urban,18.42
+1000,3,Electric,Automatic,962,6,SUV,0.34,2500,1,0.53,1,Highway,32.91
+2000,6,Hybrid,Automatic,1871,6,Compact SUV,0.31,3500,1,0.63,1,Urban,20.6
+2000,3,Diesel,Automatic,1310,7,SUV,0.26,2500,0,0.72,0,Highway,21.86
+1000,3,Diesel,Automatic,2152,4,Hatchback,0.29,2000,0,0.58,0,Highway,18.26
+1000,4,Electric,Manual,915,6,Sedan,0.32,2500,0,0.97,1,Urban,31.18
+1000,6,Electric,Manual,1740,4,Sedan,0.33,2000,1,0.88,1,Urban,33.12
+1000,6,Hybrid,Automatic,1136,6,Compact SUV,0.26,2000,1,0.63,1,Urban,28.31
+1800,6,Diesel,Automatic,1680,5,Sedan,0.25,3000,0,0.8,0,Highway,23.96
+1500,6,Diesel,Manual,1536,6,Compact SUV,0.32,2000,0,0.86,0,Urban,23.83
+1500,4,Diesel,Automatic,1639,7,Hatchback,0.29,2500,1,0.97,0,Highway,25.1
+1000,4,Diesel,Manual,946,7,Sedan,0.28,3000,1,0.94,1,Urban,23.81
+1500,3,Diesel,Automatic,2398,4,Compact SUV,0.25,3000,0,0.76,1,Urban,17.4
+1500,3,Petrol,Automatic,2146,6,SUV,0.3,2000,1,0.89,0,Highway,17.66
+1000,3,Electric,Automatic,1242,4,Compact SUV,0.34,3500,1,0.78,0,Urban,31.88
+1500,3,Petrol,Automatic,1636,4,Sedan,0.35,3500,1,0.78,1,Urban,19.8
+2000,4,Diesel,Automatic,1836,5,Hatchback,0.31,3000,1,0.56,1,Highway,19.47
+1200,6,Hybrid,Automatic,1742,5,Sedan,0.3,2000,1,0.56,0,Highway,28.08
+1200,4,Hybrid,Automatic,2317,7,Sedan,0.26,3500,1,0.76,1,Highway,23.43
+1000,3,Diesel,Manual,1086,4,Compact SUV,0.3,2000,1,0.63,0,Urban,24.41
+1800,4,Diesel,Manual,1519,7,SUV,0.29,2000,0,0.51,0,Urban,22.02
+1000,6,Hybrid,Manual,1937,6,Sedan,0.31,3000,0,0.86,1,Urban,21.98
+1800,6,Petrol,Automatic,1279,4,SUV,0.29,3000,1,0.52,1,Urban,19.89
+1200,4,Petrol,Automatic,821,4,Compact SUV,0.27,1500,1,0.8,1,Urban,19.61
+1000,4,Diesel,Automatic,2172,6,SUV,0.26,3500,1,0.77,0,Highway,18.63
+2000,4,Petrol,Automatic,1482,6,Compact SUV,0.28,3500,0,0.98,1,Urban,19.18
+1500,3,Hybrid,Automatic,2389,7,Hatchback,0.26,3500,0,0.74,1,Highway,21.3
+1800,4,Petrol,Automatic,1705,7,SUV,0.27,2500,1,0.53,0,Urban,18.57
+1500,4,Diesel,Automatic,1119,6,SUV,0.35,2000,0,0.78,0,Highway,23.86
+1500,4,Hybrid,Manual,925,7,Hatchback,0.29,3000,1,0.92,1,Urban,26.66
+1000,6,Petrol,Automatic,1076,6,SUV,0.3,3500,1,1.0,0,Urban,21.0
+1500,6,Electric,Manual,2027,4,Hatchback,0.34,1500,1,0.72,0,Highway,29.0
+2000,3,Hybrid,Manual,993,4,Sedan,0.35,3500,1,0.66,0,Urban,27.32
+1500,3,Hybrid,Automatic,2487,5,Compact SUV,0.31,2000,1,0.95,1,Highway,24.03
+1000,6,Electric,Automatic,2370,4,Hatchback,0.33,2000,1,0.6,1,Urban,26.64
+2000,6,Electric,Manual,1495,6,SUV,0.28,3000,1,0.81,0,Urban,30.92
+1200,6,Hybrid,Manual,2109,7,Hatchback,0.28,2500,0,0.7,0,Highway,23.36
+1500,4,Electric,Automatic,856,5,SUV,0.29,3000,1,0.52,0,Urban,31.06
+1000,4,Diesel,Automatic,2126,7,Sedan,0.32,3500,0,0.67,1,Highway,19.23
+1200,6,Diesel,Manual,1986,6,Hatchback,0.32,1500,1,0.63,0,Urban,19.37
+1200,4,Diesel,Automatic,818,4,Sedan,0.28,3000,1,0.84,0,Urban,21.63
+1800,4,Hybrid,Automatic,2193,5,Compact SUV,0.26,2500,0,0.97,1,Urban,19.38
+2000,3,Electric,Automatic,1063,6,SUV,0.31,3000,0,0.63,0,Urban,29.48
+1500,6,Electric,Manual,1593,5,SUV,0.26,2000,1,0.91,1,Urban,31.26
+1000,6,Petrol,Manual,912,5,Sedan,0.31,3500,0,0.53,1,Urban,21.4
+1800,4,Petrol,Manual,2311,4,Compact SUV,0.32,3500,1,0.77,1,Urban,15.19
+2000,6,Electric,Automatic,2150,6,Hatchback,0.32,3500,1,0.54,0,Highway,25.75
+1800,3,Electric,Automatic,1341,7,Hatchback,0.33,3500,0,0.97,0,Urban,29.51
+2000,3,Electric,Manual,1446,5,SUV,0.34,3500,0,0.88,1,Urban,29.27
+2000,3,Hybrid,Manual,1378,5,Sedan,0.3,3500,0,0.83,0,Urban,23.22
+1500,6,Electric,Manual,1888,7,Sedan,0.32,1500,0,0.91,1,Highway,26.64
+2000,6,Petrol,Automatic,2115,6,Hatchback,0.31,2500,1,0.82,0,Highway,16.03
+1800,6,Hybrid,Manual,824,5,Compact SUV,0.27,3500,0,0.98,1,Urban,26.07
+2000,6,Electric,Manual,2372,5,Compact SUV,0.25,2500,0,0.86,1,Urban,25.18
+1500,6,Petrol,Automatic,800,5,Hatchback,0.28,3500,0,0.96,0,Urban,18.88
+1500,3,Hybrid,Automatic,1710,6,Hatchback,0.29,3000,0,0.76,0,Highway,26.16
+1800,4,Electric,Automatic,2372,6,Sedan,0.31,3500,0,0.56,0,Urban,25.61
+1200,3,Electric,Manual,940,7,Compact SUV,0.33,2000,1,0.76,0,Highway,35.14
+1200,6,Electric,Automatic,1447,6,Hatchback,0.27,1500,1,0.56,1,Urban,30.08
+2000,3,Hybrid,Automatic,987,6,Hatchback,0.26,3000,0,0.8,1,Highway,27.16
+1000,6,Petrol,Manual,1951,4,SUV,0.35,3000,0,0.74,0,Highway,18.42
+2000,6,Petrol,Automatic,1000,7,Hatchback,0.26,2000,1,0.81,0,Urban,20.8
+1800,3,Diesel,Manual,1950,5,Hatchback,0.3,3500,0,0.51,1,Urban,17.14
+1800,6,Electric,Manual,1056,6,Compact SUV,0.31,1500,1,0.6,0,Urban,32.49
+1800,4,Diesel,Automatic,2499,5,Sedan,0.3,3000,1,0.75,0,Urban,16.14
+1800,6,Diesel,Automatic,1346,5,Compact SUV,0.26,1500,0,0.98,0,Urban,21.04
+1800,4,Petrol,Automatic,993,4,Sedan,0.26,3000,1,0.69,0,Urban,21.52
+1500,4,Hybrid,Automatic,1502,6,SUV,0.26,3500,0,0.71,1,Urban,22.36
+1200,6,Hybrid,Automatic,1927,7,Hatchback,0.31,3000,0,0.86,1,Highway,22.15
+1800,3,Petrol,Automatic,2358,6,SUV,0.3,3000,1,0.8,0,Urban,14.91
+1000,4,Hybrid,Manual,2088,5,Sedan,0.27,2500,1,0.65,1,Urban,23.18
+1000,3,Diesel,Manual,1601,7,Compact SUV,0.31,3500,0,0.71,0,Highway,26.57
+1000,4,Electric,Automatic,1741,6,Compact SUV,0.33,2000,1,0.61,0,Urban,32.23
+1000,6,Petrol,Manual,2207,5,SUV,0.25,2000,0,0.98,0,Urban,16.74
+1500,6,Electric,Automatic,2083,5,Sedan,0.3,3500,1,0.57,1,Urban,25.79
+1000,4,Hybrid,Manual,1213,4,SUV,0.32,2000,1,0.69,1,Urban,27.16
+1800,6,Electric,Manual,2181,4,SUV,0.28,3500,0,0.51,1,Highway,27.51
+2000,4,Hybrid,Manual,1898,4,Hatchback,0.28,2000,0,0.61,1,Highway,23.46
+1000,6,Hybrid,Automatic,2178,5,SUV,0.31,2500,0,0.89,1,Urban,19.67
+1500,3,Diesel,Manual,2407,6,Hatchback,0.34,2000,1,0.6,0,Urban,18.35
+1500,6,Hybrid,Automatic,1709,4,Hatchback,0.33,3000,0,0.54,0,Highway,26.67
+1000,3,Diesel,Manual,987,6,Compact SUV,0.31,3500,0,0.74,1,Urban,24.5
+2000,6,Diesel,Manual,2113,4,Hatchback,0.32,1500,1,0.5,1,Highway,20.22
+1000,3,Diesel,Manual,844,7,Hatchback,0.29,1500,1,0.54,1,Highway,27.48
+1500,6,Petrol,Manual,2396,7,Compact SUV,0.31,3500,0,0.9,0,Highway,18.78
+1200,3,Petrol,Manual,882,4,SUV,0.3,2500,0,0.89,1,Urban,21.79
+1800,4,Hybrid,Automatic,1946,5,Sedan,0.27,2000,0,0.96,0,Urban,18.24
+1500,4,Diesel,Automatic,1157,4,Sedan,0.32,2500,0,0.93,0,Urban,23.41
+1000,3,Petrol,Manual,2351,4,Sedan,0.31,1500,1,0.84,1,Highway,20.91
+1800,6,Diesel,Manual,1889,5,SUV,0.29,3500,1,0.53,0,Urban,18.36
+1000,3,Electric,Manual,1735,7,Hatchback,0.34,3500,0,0.89,0,Urban,30.12
+1000,6,Electric,Manual,2480,6,Sedan,0.25,2500,0,0.92,1,Highway,26.94
+1200,4,Electric,Automatic,1174,4,SUV,0.28,2500,0,0.9,0,Urban,30.45
+1800,6,Hybrid,Manual,961,5,Hatchback,0.26,2000,1,0.75,1,Urban,25.6
+1800,4,Diesel,Automatic,2203,4,Compact SUV,0.33,3000,0,0.62,0,Urban,14.58
+1200,6,Electric,Manual,2479,5,Sedan,0.32,3000,0,0.92,1,Highway,26.62
+1500,6,Petrol,Automatic,2181,6,Hatchback,0.28,2000,1,0.86,1,Urban,15.28
+1000,6,Electric,Manual,2011,6,Sedan,0.32,3000,1,0.99,0,Highway,29.69
+2000,3,Electric,Manual,1121,7,Sedan,0.29,1500,0,0.58,1,Highway,33.41
+1000,3,Electric,Automatic,1249,5,Sedan,0.33,3000,0,0.61,0,Highway,32.98
+1000,4,Hybrid,Manual,2297,5,Hatchback,0.3,2000,1,0.61,0,Urban,22.12
+1500,4,Petrol,Manual,1836,7,SUV,0.29,3000,0,0.9,1,Urban,16.13
+1000,3,Diesel,Manual,983,7,Hatchback,0.34,3500,0,0.59,0,Urban,23.79
+1200,4,Petrol,Automatic,910,5,Sedan,0.28,2500,1,0.53,1,Highway,23.94
+1200,3,Diesel,Manual,1307,7,Hatchback,0.26,1500,1,1.0,0,Highway,26.16
+1800,6,Hybrid,Manual,2113,6,Compact SUV,0.31,3500,1,0.51,0,Urban,22.34
+2000,4,Hybrid,Automatic,1094,4,SUV,0.35,3500,0,0.92,1,Highway,26.82
+1000,4,Hybrid,Automatic,2274,6,Hatchback,0.29,2000,1,0.68,0,Urban,21.58
+1000,3,Hybrid,Automatic,1703,7,Compact SUV,0.26,2500,1,0.92,0,Urban,26.38
+1500,4,Diesel,Manual,2038,5,SUV,0.28,2500,0,0.78,0,Urban,18.67
+1200,4,Electric,Manual,1773,5,Compact SUV,0.3,1500,0,0.95,0,Urban,30.49
+2000,6,Diesel,Manual,1431,6,SUV,0.27,2000,1,0.96,0,Urban,21.49
+1800,4,Petrol,Automatic,2390,5,Hatchback,0.32,1500,1,0.5,0,Urban,13.79
+1200,6,Hybrid,Manual,1850,7,Compact SUV,0.35,3000,0,0.54,0,Urban,20.4
+1800,3,Hybrid,Manual,2453,6,Sedan,0.3,3500,0,0.63,0,Highway,22.96
+1500,4,Petrol,Automatic,1532,5,Compact SUV,0.29,1500,1,0.83,1,Urban,20.33
+1500,6,Diesel,Automatic,2054,4,SUV,0.29,3500,1,0.94,0,Highway,19.95
+1000,3,Electric,Automatic,2388,4,Hatchback,0.26,2000,0,0.73,0,Highway,27.0
+2000,4,Electric,Automatic,1120,7,SUV,0.34,3000,1,0.8,1,Urban,29.51
+1800,3,Petrol,Automatic,1712,5,Compact SUV,0.29,2000,0,0.59,1,Highway,20.27
+1200,4,Electric,Manual,2056,7,Compact SUV,0.29,3000,1,0.9,1,Highway,29.11
+1500,3,Diesel,Automatic,2493,6,Sedan,0.32,3000,0,0.98,0,Highway,18.57
+1000,3,Diesel,Manual,1236,4,Hatchback,0.29,3500,0,0.63,1,Urban,23.91
+1000,6,Petrol,Manual,1580,6,Hatchback,0.31,2000,1,0.75,1,Urban,22.79
+1800,3,Diesel,Automatic,2356,5,Compact SUV,0.26,2000,1,0.54,0,Urban,17.1
+1500,4,Hybrid,Automatic,2226,7,Hatchback,0.33,1500,0,0.78,0,Urban,18.24
+2000,4,Petrol,Automatic,1876,7,Sedan,0.34,2000,1,0.75,1,Urban,16.07
+1500,6,Diesel,Manual,2136,7,SUV,0.31,1500,1,0.57,1,Highway,20.66
+1800,4,Petrol,Automatic,2104,6,Hatchback,0.35,2500,1,0.72,0,Highway,17.38
+1800,4,Electric,Automatic,1525,4,Compact SUV,0.27,2500,0,0.67,0,Urban,30.9
+1500,4,Diesel,Automatic,830,6,SUV,0.3,2500,1,0.76,0,Highway,25.66
+1800,3,Hybrid,Automatic,1136,6,SUV,0.31,2000,1,0.79,0,Highway,27.75
+1500,3,Diesel,Automatic,982,5,Sedan,0.31,2000,0,0.5,0,Highway,23.75
+1200,4,Petrol,Manual,1846,5,Compact SUV,0.29,1500,1,0.88,1,Highway,19.19
+1500,6,Petrol,Manual,1343,5,Hatchback,0.28,3000,1,0.86,0,Urban,21.99
+1500,3,Diesel,Manual,2269,4,Compact SUV,0.26,1500,0,0.68,0,Urban,18.16
+1800,6,Hybrid,Automatic,1897,4,SUV,0.29,2500,0,0.53,0,Urban,21.01
+1800,4,Hybrid,Automatic,1833,5,Compact SUV,0.27,1500,1,0.88,0,Highway,24.77
+1000,4,Hybrid,Automatic,2307,5,Hatchback,0.32,3000,1,0.98,0,Highway,23.79
+1000,3,Petrol,Manual,2279,4,Hatchback,0.27,2000,0,0.62,1,Urban,14.35
+1200,4,Diesel,Automatic,2389,7,Sedan,0.26,1500,0,0.66,0,Urban,16.25
+1000,3,Electric,Automatic,2387,4,Hatchback,0.31,2500,1,0.59,1,Highway,30.31
+1500,4,Petrol,Automatic,1459,4,Hatchback,0.31,2500,1,0.79,0,Urban,21.47
+1800,4,Hybrid,Manual,959,4,Compact SUV,0.34,2000,1,0.58,1,Urban,26.73
+1000,3,Diesel,Automatic,1837,5,Compact SUV,0.31,1500,0,0.68,1,Highway,19.33
+1000,3,Hybrid,Manual,2001,7,SUV,0.28,3000,1,0.85,0,Highway,23.31
+1200,3,Electric,Automatic,1211,4,Sedan,0.33,2000,0,0.78,0,Urban,31.88
+1200,4,Hybrid,Manual,1811,5,Compact SUV,0.3,1500,0,0.69,0,Highway,22.38
+1500,4,Hybrid,Manual,852,6,Hatchback,0.26,3500,0,0.71,0,Urban,26.48
+1800,6,Electric,Manual,1207,6,SUV,0.31,2500,1,0.78,0,Highway,32.0
+1200,3,Diesel,Automatic,1646,4,Compact SUV,0.34,3000,1,0.5,1,Highway,24.98
+1000,4,Petrol,Automatic,1845,6,Sedan,0.29,3000,1,0.54,0,Urban,17.49
+1800,4,Diesel,Manual,1853,7,Sedan,0.28,3000,0,0.94,0,Highway,19.05
+1800,3,Electric,Manual,1502,6,SUV,0.26,2500,1,0.54,1,Urban,30.93
+1000,6,Hybrid,Automatic,1059,6,SUV,0.27,1500,0,0.85,0,Highway,27.51
+1200,3,Diesel,Automatic,2028,7,SUV,0.29,2000,0,0.96,1,Urban,15.86
+1000,6,Petrol,Manual,1882,4,SUV,0.31,1500,0,0.64,0,Highway,16.98
+1800,4,Electric,Automatic,2294,4,SUV,0.26,2000,0,0.69,1,Highway,27.01
+2000,6,Diesel,Automatic,1575,7,Hatchback,0.34,3000,0,0.78,0,Urban,20.58
+2000,4,Petrol,Automatic,2289,7,Hatchback,0.33,1500,0,0.94,1,Highway,16.71
+1500,3,Electric,Automatic,1835,7,Compact SUV,0.31,3000,1,0.97,1,Urban,26.87
+1000,3,Petrol,Manual,2454,6,Sedan,0.33,3500,0,0.87,0,Highway,19.7
+1000,3,Electric,Automatic,2113,7,Hatchback,0.26,3000,1,0.54,0,Highway,26.88
+1500,6,Hybrid,Automatic,1649,5,Hatchback,0.3,3000,0,0.83,0,Urban,24.05
+1500,4,Diesel,Manual,1153,6,Hatchback,0.31,2000,1,0.71,1,Highway,26.29
+1500,3,Petrol,Manual,2462,4,Compact SUV,0.33,3500,1,0.74,1,Highway,19.3
+1800,3,Electric,Automatic,1898,4,SUV,0.33,3000,1,0.52,1,Urban,27.55
+1000,4,Petrol,Automatic,1672,4,Compact SUV,0.28,3000,1,0.6,0,Highway,22.59
+1800,3,Petrol,Automatic,2384,6,Sedan,0.34,3500,0,0.9,0,Urban,15.47
+1500,4,Diesel,Automatic,2414,5,Sedan,0.26,3500,0,0.73,1,Urban,17.12
+1000,4,Hybrid,Manual,2264,7,Sedan,0.34,1500,0,0.65,0,Urban,19.86
+1800,4,Petrol,Manual,1790,7,Sedan,0.35,2000,0,0.69,1,Highway,21.75
+1800,4,Electric,Manual,2064,4,Hatchback,0.27,3500,1,0.93,0,Highway,28.56
+1500,4,Electric,Automatic,1817,4,Hatchback,0.32,3500,1,0.87,0,Urban,24.05
+1000,6,Hybrid,Automatic,1977,6,Compact SUV,0.25,2500,1,0.64,1,Highway,21.43
+1500,3,Electric,Automatic,1919,5,SUV,0.29,3500,0,0.56,0,Urban,22.99
+1000,6,Hybrid,Automatic,1093,7,Sedan,0.3,2000,1,0.63,0,Highway,28.76
+2000,3,Electric,Manual,1008,6,Compact SUV,0.31,3000,0,0.96,0,Urban,29.52
+1200,6,Diesel,Manual,2166,7,Hatchback,0.34,3000,1,0.79,0,Urban,18.58
+1200,4,Petrol,Automatic,1911,4,Hatchback,0.32,3000,1,0.77,0,Highway,17.61
+1200,3,Diesel,Manual,1617,7,SUV,0.3,3000,1,0.8,1,Urban,22.78
+1500,3,Petrol,Automatic,1189,5,SUV,0.33,2500,1,0.68,0,Urban,20.29
+2000,6,Petrol,Automatic,1124,5,SUV,0.35,3500,1,0.9,1,Highway,20.18
+1000,6,Petrol,Manual,1739,4,Compact SUV,0.25,3000,0,0.76,0,Urban,22.69
+1800,3,Diesel,Automatic,1688,5,Hatchback,0.35,1500,1,0.56,0,Urban,23.99
+1000,6,Petrol,Automatic,1980,5,Hatchback,0.26,3000,0,0.56,1,Highway,15.17
+1800,6,Diesel,Manual,1467,6,SUV,0.33,3500,0,0.77,1,Urban,21.83
+1000,6,Hybrid,Automatic,2474,7,Sedan,0.28,3000,0,0.97,0,Urban,20.1
+2000,4,Electric,Automatic,1432,4,SUV,0.26,2500,0,0.65,0,Urban,28.83
+1800,4,Electric,Manual,1376,4,Compact SUV,0.29,2000,0,0.93,1,Urban,31.3
+1500,6,Petrol,Automatic,2442,4,SUV,0.31,2000,0,0.88,1,Urban,14.28
+1000,6,Diesel,Manual,2482,4,SUV,0.29,3500,0,0.62,1,Urban,18.41
+1000,4,Electric,Automatic,936,4,Compact SUV,0.26,2000,0,0.52,1,Urban,33.48
+1800,4,Diesel,Manual,2497,5,SUV,0.31,2000,1,0.55,0,Urban,18.19
+1500,3,Diesel,Manual,1227,6,Hatchback,0.34,1500,1,0.86,0,Highway,27.52
+1500,3,Petrol,Manual,2275,4,Sedan,0.29,3500,0,0.6,0,Urban,16.25
+2000,4,Electric,Automatic,1411,6,SUV,0.27,3500,0,0.69,0,Urban,28.45
+1500,6,Petrol,Manual,1710,6,Compact SUV,0.29,2000,0,0.75,0,Highway,22.03
+1500,6,Petrol,Manual,1618,5,Sedan,0.25,2000,1,0.86,1,Urban,21.74
+1500,6,Electric,Manual,940,4,Compact SUV,0.33,2000,1,0.56,1,Urban,30.62
+1200,6,Electric,Manual,1906,5,Sedan,0.33,2500,0,0.7,1,Urban,25.34
+2000,3,Hybrid,Manual,976,4,Sedan,0.31,3000,0,0.74,0,Urban,24.58
+1000,4,Hybrid,Automatic,997,5,SUV,0.29,2500,1,0.77,1,Urban,26.79
+1800,6,Diesel,Automatic,1423,6,Hatchback,0.33,3500,1,0.91,0,Urban,24.13
+1000,3,Electric,Automatic,2391,4,SUV,0.31,1500,0,0.59,0,Highway,27.02
+2000,6,Hybrid,Automatic,1490,7,Compact SUV,0.33,3000,0,0.9,0,Highway,26.46
+1800,4,Diesel,Automatic,2244,6,Compact SUV,0.31,1500,0,0.85,1,Highway,16.67
+2000,3,Diesel,Automatic,1200,7,Sedan,0.33,3500,0,0.78,0,Highway,24.06
+1500,4,Diesel,Automatic,1270,6,Sedan,0.31,3500,1,0.85,0,Highway,23.03
+1800,4,Hybrid,Manual,1017,5,Hatchback,0.29,1500,1,0.71,1,Urban,27.1
+1500,3,Electric,Automatic,1728,4,SUV,0.35,1500,0,0.57,0,Urban,29.67
+1000,3,Petrol,Manual,1431,6,Compact SUV,0.3,1500,0,0.83,1,Urban,21.38
+1000,3,Diesel,Manual,1750,5,Sedan,0.31,3500,0,0.76,0,Urban,23.2
+1800,3,Hybrid,Automatic,1705,4,Hatchback,0.27,2000,1,0.82,1,Urban,24.0
+1800,3,Hybrid,Manual,974,4,Compact SUV,0.31,1500,0,0.67,0,Highway,26.05
+2000,3,Petrol,Manual,822,6,Sedan,0.31,3000,0,0.95,0,Highway,22.84
+2000,3,Petrol,Manual,1034,4,Compact SUV,0.27,3500,0,0.79,1,Urban,20.01
+1500,6,Hybrid,Manual,1836,6,Hatchback,0.26,2500,1,0.54,0,Urban,21.44
+1800,4,Electric,Automatic,1924,4,Hatchback,0.31,2500,0,0.72,1,Urban,24.74
+1000,3,Petrol,Automatic,1728,7,Compact SUV,0.33,3000,1,0.88,0,Highway,23.6
+2000,6,Hybrid,Automatic,2359,5,SUV,0.3,2000,0,0.9,1,Highway,20.21
+2000,6,Petrol,Automatic,1322,7,Compact SUV,0.27,1500,0,0.75,0,Urban,21.46
+1000,6,Electric,Automatic,2275,6,Sedan,0.32,3500,0,0.95,0,Highway,28.24
+2000,4,Diesel,Automatic,1230,7,SUV,0.26,1500,1,0.63,0,Urban,22.13
+1500,3,Petrol,Automatic,1592,6,Sedan,0.29,3500,0,0.71,1,Highway,21.24
+1800,6,Electric,Automatic,2429,4,Compact SUV,0.27,2500,0,0.95,1,Highway,27.25
+1000,4,Hybrid,Automatic,1332,4,SUV,0.27,1500,1,0.95,1,Urban,25.71
+1800,4,Petrol,Automatic,1778,6,Sedan,0.27,3000,1,0.84,1,Highway,21.43
+2000,4,Petrol,Manual,2475,7,Compact SUV,0.29,2000,1,0.93,1,Highway,19.69
+2000,6,Hybrid,Automatic,2116,4,Compact SUV,0.26,3000,0,0.54,0,Urban,19.03
+1000,3,Diesel,Manual,1609,5,SUV,0.29,2000,1,0.93,0,Highway,25.74
+1500,6,Hybrid,Manual,1712,4,Compact SUV,0.3,1500,0,0.66,0,Urban,25.76
+1200,6,Petrol,Manual,1924,5,Hatchback,0.3,1500,1,0.59,0,Highway,20.05
+1000,3,Hybrid,Manual,2325,7,Sedan,0.29,2000,1,0.62,0,Urban,23.12
+1200,3,Electric,Automatic,2127,5,Sedan,0.33,2500,1,0.71,1,Urban,27.17
+1200,3,Hybrid,Manual,1670,5,Compact SUV,0.26,3500,0,0.63,0,Highway,26.95
+1500,4,Petrol,Automatic,1339,5,Compact SUV,0.3,3000,0,0.66,1,Highway,22.7
+1200,3,Hybrid,Automatic,1823,5,Hatchback,0.26,3000,0,0.57,0,Urban,20.02
+1200,6,Diesel,Manual,2376,4,SUV,0.26,3000,0,0.65,1,Highway,20.29
+1500,3,Hybrid,Automatic,2178,5,Compact SUV,0.31,1500,0,0.79,1,Highway,22.96
+1200,6,Diesel,Manual,2126,4,Compact SUV,0.31,3000,0,0.72,1,Highway,20.9
+1200,4,Electric,Manual,2319,5,Compact SUV,0.34,3500,0,0.67,0,Urban,26.55
+1200,6,Diesel,Automatic,2481,6,Compact SUV,0.31,3500,0,0.87,0,Urban,15.22
+1000,6,Hybrid,Automatic,1026,7,Sedan,0.35,2000,0,0.95,0,Urban,25.45
+1000,3,Petrol,Manual,2059,5,Compact SUV,0.25,1500,1,0.88,0,Highway,18.72
+1000,3,Diesel,Automatic,1672,6,Sedan,0.26,3500,1,0.67,1,Highway,26.21
+1500,6,Electric,Automatic,1691,5,Compact SUV,0.25,2500,0,0.87,1,Urban,30.74
+2000,3,Diesel,Automatic,2278,5,SUV,0.27,1500,0,0.58,1,Urban,15.7
+1200,4,Diesel,Manual,1836,5,Hatchback,0.3,1500,0,0.57,1,Highway,19.53
+1200,4,Diesel,Manual,1009,6,SUV,0.31,3500,0,0.67,0,Highway,26.76
+1500,3,Electric,Automatic,1540,7,Compact SUV,0.25,2500,1,0.9,1,Highway,32.15
+1200,4,Hybrid,Automatic,1196,6,Compact SUV,0.34,2000,1,0.62,0,Highway,27.01
+1000,3,Diesel,Automatic,1923,7,Compact SUV,0.33,3500,0,0.53,1,Urban,16.67
+2000,6,Diesel,Automatic,830,5,SUV,0.28,2500,1,0.57,1,Highway,23.45
+1800,6,Petrol,Automatic,1697,4,Compact SUV,0.26,1500,1,0.93,1,Highway,21.44
+1200,4,Electric,Manual,2351,5,SUV,0.27,2500,0,0.82,0,Urban,27.05
+1000,3,Diesel,Automatic,1448,7,Sedan,0.26,1500,0,0.63,0,Urban,20.3
+1800,3,Electric,Manual,1128,6,Hatchback,0.26,3500,0,0.78,1,Highway,31.42
+2000,4,Diesel,Automatic,1989,5,Hatchback,0.3,3500,0,0.76,1,Urban,15.95
+1800,6,Hybrid,Manual,2282,6,SUV,0.27,3000,1,0.83,1,Highway,23.51
+1000,4,Hybrid,Automatic,1751,6,Sedan,0.29,3000,0,0.62,0,Highway,29.19
+1800,6,Diesel,Manual,1923,6,SUV,0.35,3000,1,0.93,0,Urban,19.85
+1500,3,Hybrid,Automatic,1420,5,Sedan,0.32,3500,0,0.65,0,Urban,23.15
+1800,6,Diesel,Manual,1996,6,Compact SUV,0.34,2000,1,0.85,1,Highway,18.39
+1200,4,Hybrid,Manual,961,6,Sedan,0.26,3500,0,0.51,0,Urban,26.22
+1200,3,Petrol,Manual,1575,5,Sedan,0.29,2500,0,0.69,1,Highway,22.53
+1500,4,Petrol,Manual,2086,6,Sedan,0.31,3500,1,0.68,0,Highway,17.56
+1000,4,Petrol,Manual,1073,5,Hatchback,0.26,3500,1,0.77,1,Highway,24.52
+1200,6,Electric,Manual,1826,7,Sedan,0.25,1500,1,0.54,1,Urban,27.43
+2000,4,Electric,Automatic,1851,7,Compact SUV,0.32,1500,0,0.9,0,Highway,25.16
+1200,6,Petrol,Manual,1125,7,Compact SUV,0.31,1500,1,0.61,1,Highway,23.58
+1200,3,Electric,Automatic,1739,6,Compact SUV,0.29,3500,1,0.84,1,Highway,32.44
+1000,6,Hybrid,Automatic,1972,4,Sedan,0.3,2000,1,0.9,1,Urban,21.09
+1800,3,Diesel,Automatic,1339,4,SUV,0.29,2500,1,0.78,0,Highway,24.84
+1200,6,Diesel,Automatic,1287,6,SUV,0.25,2500,1,0.87,1,Highway,24.12
+1500,4,Diesel,Automatic,1621,4,Compact SUV,0.28,2000,1,0.83,0,Highway,24.11
+1800,6,Petrol,Manual,2261,5,Hatchback,0.27,2000,1,0.68,0,Urban,15.9
+2000,6,Electric,Manual,1888,4,SUV,0.26,2500,1,0.9,1,Highway,27.99
+1000,3,Hybrid,Manual,1155,6,Sedan,0.35,3000,1,0.65,0,Highway,29.78
+2000,4,Hybrid,Automatic,2356,6,SUV,0.31,1500,0,0.79,1,Urban,21.04
+1800,6,Petrol,Manual,2075,5,Compact SUV,0.32,1500,0,0.87,0,Urban,15.87
+1800,4,Hybrid,Manual,1034,7,Hatchback,0.28,2500,1,0.69,1,Highway,28.9
+1800,6,Hybrid,Manual,1026,6,SUV,0.29,2000,0,0.65,0,Highway,27.03
+2000,6,Hybrid,Manual,2348,5,SUV,0.27,3000,0,0.73,1,Highway,21.02
+1800,4,Hybrid,Manual,2136,4,Compact SUV,0.26,2500,1,0.91,1,Urban,20.77
+2000,6,Electric,Automatic,848,4,Hatchback,0.27,1500,1,0.96,1,Urban,29.29
+1800,4,Hybrid,Manual,917,5,Hatchback,0.33,3500,1,0.77,1,Highway,28.69
+1500,6,Diesel,Automatic,853,5,Compact SUV,0.32,2000,1,0.83,0,Urban,21.1
+1800,3,Petrol,Automatic,2473,6,Sedan,0.3,3500,1,0.95,0,Highway,17.89
+2000,4,Electric,Automatic,1364,4,SUV,0.3,2500,1,0.55,1,Highway,31.88
+1200,6,Hybrid,Automatic,1867,5,Sedan,0.34,1500,0,0.62,0,Urban,20.93
+1800,6,Electric,Automatic,852,4,SUV,0.26,3000,1,0.85,1,Highway,31.58
+1200,3,Hybrid,Manual,2409,5,SUV,0.28,3500,0,0.91,1,Urban,20.3
+1500,4,Diesel,Manual,1357,4,Sedan,0.28,3000,1,0.93,0,Urban,23.34
+1000,6,Petrol,Manual,2348,7,Compact SUV,0.33,1500,1,0.71,0,Highway,19.07
+1500,3,Hybrid,Automatic,1925,6,Compact SUV,0.35,3500,0,0.54,1,Urban,20.56
+1800,6,Hybrid,Manual,1667,4,SUV,0.27,3000,1,0.72,0,Highway,29.1
+1200,4,Hybrid,Manual,1197,7,Compact SUV,0.34,3000,1,0.62,1,Urban,29.11
+1200,6,Hybrid,Automatic,1961,4,SUV,0.33,3500,0,0.65,0,Highway,21.7
+2000,6,Petrol,Automatic,1474,4,Compact SUV,0.27,1500,1,0.89,0,Highway,18.65
+1200,6,Petrol,Automatic,1186,7,SUV,0.29,3000,0,0.54,0,Highway,21.79
+2000,6,Diesel,Automatic,910,4,Compact SUV,0.29,2500,1,0.91,0,Urban,22.23
+1000,3,Petrol,Manual,1413,4,Hatchback,0.35,3500,1,0.71,0,Highway,25.21
+1800,3,Hybrid,Automatic,816,6,Sedan,0.27,2000,0,0.8,1,Urban,24.6
+2000,4,Diesel,Automatic,2005,7,Hatchback,0.33,2000,1,0.54,0,Urban,16.5
+1000,3,Diesel,Manual,1683,7,Sedan,0.28,1500,0,0.67,0,Urban,25.21
+1200,3,Diesel,Manual,2359,5,Sedan,0.32,2500,0,0.54,1,Urban,17.17
+1200,4,Hybrid,Automatic,1340,4,SUV,0.29,3000,0,0.98,1,Urban,24.93
+1000,3,Electric,Manual,970,6,Sedan,0.31,2000,1,0.9,1,Highway,33.42
+1200,3,Hybrid,Automatic,1208,4,Hatchback,0.33,1500,1,0.73,0,Urban,26.22
+1000,4,Petrol,Automatic,1539,4,Hatchback,0.33,2500,0,0.61,0,Highway,24.09
+2000,4,Petrol,Manual,2201,5,Compact SUV,0.34,2500,1,0.97,1,Highway,17.86
+2000,4,Hybrid,Manual,2011,4,Hatchback,0.26,1500,1,0.67,1,Urban,20.87
+1000,6,Hybrid,Automatic,1657,6,Compact SUV,0.32,1500,1,0.58,1,Highway,26.8
+2000,6,Diesel,Automatic,1029,6,Sedan,0.26,3000,0,0.78,1,Highway,22.71
+2000,4,Hybrid,Automatic,918,5,Hatchback,0.29,1500,1,0.97,0,Urban,26.15
+2000,4,Diesel,Manual,1979,4,Sedan,0.3,3000,0,0.5,0,Highway,18.75
+1500,4,Petrol,Automatic,1583,6,Hatchback,0.29,3000,1,0.62,0,Urban,20.43
+1800,6,Diesel,Automatic,1264,4,Hatchback,0.3,3500,1,0.97,0,Urban,23.41
+1200,6,Hybrid,Automatic,903,4,Compact SUV,0.35,2500,0,0.59,0,Urban,24.89
+1500,3,Petrol,Automatic,2427,4,Sedan,0.26,2500,1,0.56,1,Highway,19.04
+2000,3,Electric,Automatic,1497,5,Hatchback,0.32,2500,0,0.79,0,Highway,29.72
+1000,4,Diesel,Manual,2325,4,SUV,0.29,3500,1,0.93,1,Highway,22.18
+2000,6,Petrol,Automatic,974,6,Sedan,0.26,3000,0,0.74,1,Highway,22.65
+1800,6,Diesel,Automatic,1544,4,Sedan,0.27,3000,1,1.0,1,Urban,23.31
+2000,6,Petrol,Automatic,2497,6,Sedan,0.34,1500,1,0.84,0,Urban,13.13
+1000,4,Petrol,Automatic,2244,4,Compact SUV,0.34,3500,1,0.54,1,Highway,17.86
+1800,3,Diesel,Manual,1957,6,SUV,0.34,1500,0,1.0,0,Urban,17.06
+2000,4,Electric,Manual,2214,6,Sedan,0.35,3500,0,0.7,1,Highway,28.01
+1800,3,Petrol,Manual,2324,4,Hatchback,0.27,1500,0,0.64,0,Urban,13.97
+1200,3,Petrol,Automatic,1464,4,Hatchback,0.29,2000,1,0.78,1,Urban,20.18
+1200,4,Petrol,Automatic,832,6,Compact SUV,0.32,2500,0,0.65,0,Urban,18.59
+2000,3,Electric,Manual,854,7,Hatchback,0.3,2500,0,0.54,1,Urban,29.17
+1800,3,Electric,Manual,1318,5,Sedan,0.29,3000,0,0.5,1,Urban,29.05
+1000,6,Hybrid,Manual,1555,7,Hatchback,0.29,2000,0,0.72,1,Highway,30.1
+2000,3,Diesel,Automatic,2461,7,Sedan,0.31,2500,0,0.92,1,Highway,17.35
+1200,4,Electric,Automatic,811,4,Hatchback,0.31,3000,0,0.79,0,Urban,30.89
+1200,4,Diesel,Manual,2351,5,SUV,0.27,2000,0,1.0,0,Highway,20.22
+2000,3,Hybrid,Manual,1519,7,Compact SUV,0.3,2500,0,0.64,0,Urban,25.0
+1800,6,Diesel,Manual,1354,4,Compact SUV,0.31,1500,0,0.64,1,Urban,21.71
+1200,6,Electric,Automatic,1172,7,SUV,0.31,3500,0,0.58,1,Urban,30.97
+1800,3,Diesel,Automatic,1283,7,SUV,0.27,2000,1,0.58,1,Urban,22.45
+1200,3,Electric,Automatic,1772,4,Compact SUV,0.32,3000,1,0.64,1,Highway,33.3
+1200,4,Diesel,Manual,2470,4,SUV,0.25,2000,0,0.9,1,Urban,17.61
+1500,3,Electric,Manual,2051,4,Sedan,0.29,3000,1,0.95,1,Highway,28.32
+1200,6,Electric,Automatic,1422,5,Hatchback,0.33,2000,1,0.99,0,Urban,31.79
+1000,3,Diesel,Manual,1106,7,Compact SUV,0.31,3000,0,0.62,0,Urban,23.73
+2000,4,Hybrid,Automatic,1256,4,SUV,0.28,2500,0,0.94,0,Highway,26.12
+2000,4,Petrol,Manual,959,6,Sedan,0.32,1500,0,0.66,0,Urban,19.25
+1800,4,Hybrid,Manual,1130,7,Compact SUV,0.31,2500,1,0.56,0,Urban,28.24
+1200,4,Diesel,Manual,1575,6,SUV,0.33,1500,0,0.94,0,Highway,24.72
+1000,4,Hybrid,Manual,1024,5,Compact SUV,0.32,2500,1,0.82,0,Highway,29.47
+1800,3,Electric,Automatic,1782,4,SUV,0.31,2500,0,0.58,0,Highway,31.11
+1500,3,Petrol,Manual,1528,6,Compact SUV,0.3,2000,1,0.71,1,Urban,23.7
+1800,3,Diesel,Automatic,2327,5,Sedan,0.26,3500,1,0.64,1,Urban,17.01
+1800,3,Diesel,Automatic,2279,4,Sedan,0.28,3000,0,0.87,1,Highway,17.92
+1200,4,Diesel,Automatic,1868,6,Hatchback,0.29,3000,0,0.73,1,Highway,19.32
+1500,6,Petrol,Manual,2037,6,Compact SUV,0.31,3000,1,0.99,1,Urban,16.06
+1800,3,Electric,Automatic,1882,5,Hatchback,0.3,1500,1,0.53,1,Urban,25.41
+1000,6,Diesel,Automatic,1443,4,Compact SUV,0.28,3000,0,0.68,1,Highway,26.87
+1000,3,Hybrid,Automatic,1415,4,SUV,0.25,3000,0,0.74,0,Highway,27.8
+2000,3,Diesel,Manual,994,6,SUV,0.3,2000,1,0.75,0,Highway,25.26
+1500,6,Diesel,Manual,1288,6,Hatchback,0.28,2500,0,0.66,1,Highway,24.03
+1500,4,Diesel,Automatic,956,6,Compact SUV,0.32,3000,1,0.86,0,Urban,24.46
+2000,3,Diesel,Manual,1409,4,Hatchback,0.25,3500,0,0.94,0,Urban,23.94
+1800,3,Electric,Automatic,2049,5,Sedan,0.31,3000,0,0.97,0,Urban,25.15
+1500,3,Hybrid,Automatic,1211,5,Hatchback,0.34,1500,0,0.9,0,Urban,25.4
+1000,6,Electric,Manual,2028,4,Hatchback,0.27,1500,1,0.93,0,Highway,29.27
+1000,4,Hybrid,Automatic,1902,7,SUV,0.3,1500,0,0.78,1,Urban,20.89
+1200,6,Diesel,Manual,1947,5,Hatchback,0.26,3000,1,0.91,0,Highway,20.36
+1500,6,Petrol,Manual,1270,6,Compact SUV,0.31,2000,0,0.65,1,Urban,19.62
+1800,4,Electric,Automatic,2041,7,SUV,0.31,3500,1,0.7,1,Urban,23.81
+2000,6,Petrol,Manual,1315,7,Hatchback,0.29,3000,1,0.66,1,Urban,21.41
+2000,4,Electric,Manual,2425,5,Sedan,0.3,2000,0,0.73,0,Highway,25.62
+1800,3,Diesel,Automatic,1927,7,Hatchback,0.34,2000,1,0.64,1,Urban,16.8
+1200,4,Electric,Automatic,1192,7,Hatchback,0.27,3000,1,0.98,1,Highway,33.14
+2000,3,Diesel,Manual,1430,5,Hatchback,0.25,3000,1,0.66,1,Highway,26.0
+1500,6,Electric,Manual,2468,5,SUV,0.34,2000,1,0.55,1,Urban,26.17
+1200,6,Diesel,Automatic,1407,7,Compact SUV,0.31,2000,0,0.76,0,Highway,25.31
+1500,3,Diesel,Manual,1779,6,Sedan,0.34,2000,0,0.53,1,Urban,23.69
+1000,6,Hybrid,Manual,1233,4,Hatchback,0.31,3000,0,0.56,1,Highway,27.43
+1200,4,Diesel,Manual,2154,7,Compact SUV,0.33,2000,1,0.61,1,Urban,20.32
+2000,3,Hybrid,Manual,1966,7,Compact SUV,0.29,1500,1,0.73,1,Highway,22.72
+1200,6,Diesel,Manual,1339,6,SUV,0.32,3000,0,0.72,0,Highway,24.7
+1200,3,Petrol,Manual,1077,7,Sedan,0.34,1500,0,0.9,1,Urban,20.92
+1200,4,Diesel,Manual,1032,7,SUV,0.31,2500,1,0.87,1,Urban,24.2
+1200,4,Petrol,Automatic,2352,4,Compact SUV,0.27,3000,0,0.71,1,Urban,14.78
+1500,6,Petrol,Automatic,2394,4,Compact SUV,0.28,2500,0,0.67,1,Urban,13.91
+1000,4,Diesel,Automatic,1913,4,Compact SUV,0.27,2000,1,0.66,1,Highway,19.75
+1800,3,Petrol,Automatic,2315,5,SUV,0.27,2000,0,0.89,1,Highway,16.44
+1200,4,Hybrid,Automatic,2022,5,Sedan,0.28,3500,1,0.53,0,Highway,23.04
+2000,3,Electric,Manual,1161,4,Hatchback,0.31,2000,0,0.51,1,Highway,32.53
+1200,3,Diesel,Manual,2264,4,SUV,0.31,2500,1,0.9,0,Urban,19.25
+2000,4,Petrol,Manual,825,5,Compact SUV,0.29,2000,1,0.74,0,Highway,23.08
+1500,6,Diesel,Manual,1848,6,SUV,0.31,3000,1,0.57,1,Urban,19.34
+2000,4,Hybrid,Automatic,2217,7,Compact SUV,0.26,2000,1,0.62,0,Highway,23.42
+1800,3,Diesel,Manual,1306,7,Hatchback,0.26,3500,1,0.97,1,Urban,24.76
+1000,3,Diesel,Manual,2124,4,Hatchback,0.27,2000,0,0.93,0,Urban,19.84
+2000,4,Petrol,Automatic,2162,6,Sedan,0.3,2500,0,0.85,1,Urban,14.87
+2000,6,Hybrid,Manual,1066,5,Compact SUV,0.27,2500,0,0.74,0,Urban,27.09
+1000,6,Electric,Manual,1260,4,Sedan,0.28,2000,1,0.76,0,Urban,32.94
+1800,3,Electric,Automatic,1255,6,Sedan,0.29,2500,0,0.99,1,Highway,31.63
+1200,3,Petrol,Manual,2183,6,Hatchback,0.33,2500,1,0.98,0,Urban,19.44
+2000,6,Diesel,Manual,1891,6,SUV,0.25,3500,1,0.61,0,Highway,17.27
+1000,4,Petrol,Manual,1806,5,SUV,0.31,3000,0,0.91,0,Highway,18.29
+1500,3,Petrol,Manual,1662,5,Sedan,0.32,3500,1,0.6,0,Urban,23.0
+1000,3,Petrol,Manual,2235,7,Hatchback,0.33,1500,0,0.61,0,Highway,19.48
+1500,6,Diesel,Automatic,1290,7,Compact SUV,0.34,3500,1,0.84,1,Highway,27.32
+1800,4,Hybrid,Automatic,1872,6,SUV,0.25,2000,1,0.7,0,Highway,22.41
+1200,6,Petrol,Automatic,1363,6,Sedan,0.27,3000,0,0.97,0,Urban,19.77
+1000,4,Diesel,Automatic,1925,5,SUV,0.34,2000,1,0.54,1,Urban,18.17
+2000,4,Hybrid,Automatic,1015,7,SUV,0.3,1500,0,0.76,1,Urban,24.32
+1800,4,Petrol,Automatic,2261,6,Compact SUV,0.31,3000,1,0.96,1,Urban,16.92
+1000,3,Electric,Manual,2392,7,Hatchback,0.32,2500,0,0.95,0,Highway,30.13
+2000,6,Hybrid,Automatic,1358,7,Compact SUV,0.32,3500,1,0.58,0,Highway,26.94
+1000,6,Petrol,Automatic,958,6,Hatchback,0.34,2000,0,0.68,0,Highway,22.75
+1500,4,Hybrid,Manual,1288,5,SUV,0.35,1500,0,0.81,0,Highway,27.14
+1000,3,Hybrid,Manual,1485,6,Sedan,0.32,2500,1,0.58,1,Highway,28.99
+1000,3,Hybrid,Automatic,2065,6,Compact SUV,0.28,3500,0,0.98,1,Highway,23.55
+1000,6,Hybrid,Manual,1593,7,Hatchback,0.34,2500,1,0.96,0,Urban,29.1
+1800,3,Hybrid,Automatic,804,6,SUV,0.25,3500,1,0.58,0,Highway,26.6
+1000,3,Hybrid,Manual,2419,5,Hatchback,0.27,3000,0,0.56,0,Highway,23.74
+2000,4,Petrol,Automatic,1160,6,Hatchback,0.34,2500,0,0.54,0,Highway,20.76
+1500,3,Electric,Manual,1258,5,Hatchback,0.28,2500,0,0.95,1,Urban,31.61
+1500,4,Diesel,Manual,1047,5,SUV,0.27,2500,0,0.6,1,Highway,24.36
+1000,6,Hybrid,Automatic,2389,7,Sedan,0.26,3000,0,0.71,0,Highway,20.57
+1800,3,Diesel,Automatic,2496,4,Sedan,0.34,1500,1,0.72,1,Urban,18.3
+1800,6,Petrol,Automatic,1745,4,Sedan,0.3,3500,0,0.8,0,Highway,21.0
+2000,6,Hybrid,Automatic,1221,7,Hatchback,0.32,2500,1,0.54,0,Urban,24.8
+1000,3,Electric,Automatic,814,6,SUV,0.27,3000,0,0.61,1,Urban,30.94
+1500,3,Diesel,Manual,1535,7,Hatchback,0.33,1500,0,0.97,0,Highway,25.1
+1800,6,Hybrid,Automatic,2396,5,Sedan,0.33,3500,0,0.95,1,Highway,21.76
+1000,3,Petrol,Automatic,1945,4,Sedan,0.28,3000,1,0.89,0,Urban,14.87
+1800,4,Electric,Manual,1076,7,SUV,0.29,3500,0,0.51,1,Highway,32.86
+1800,4,Diesel,Manual,2381,6,Hatchback,0.27,2500,1,0.66,0,Highway,18.39
+1500,3,Diesel,Automatic,1252,7,Compact SUV,0.35,1500,1,0.81,1,Urban,23.52
+1200,6,Hybrid,Manual,2213,4,Compact SUV,0.31,3000,1,0.64,0,Urban,23.32
+2000,3,Electric,Manual,2117,7,Sedan,0.34,1500,0,0.95,0,Highway,25.63
+2000,3,Electric,Automatic,2397,7,SUV,0.28,2500,1,0.82,1,Urban,25.33
+1500,6,Electric,Manual,1397,4,Hatchback,0.33,1500,0,0.54,0,Highway,33.81
+1800,6,Electric,Manual,1245,5,Hatchback,0.33,1500,1,0.95,1,Highway,32.85
+1000,4,Petrol,Automatic,1009,5,Sedan,0.32,2000,0,0.98,1,Highway,23.17
+1800,6,Electric,Automatic,2413,4,Sedan,0.35,1500,1,0.54,0,Highway,24.51
+1500,4,Diesel,Manual,1513,7,Hatchback,0.29,3500,0,0.77,0,Urban,23.85
+2000,6,Diesel,Manual,1101,4,Hatchback,0.26,3000,0,0.65,0,Highway,24.03
+1800,3,Petrol,Automatic,2046,5,Sedan,0.32,2000,0,0.7,0,Urban,14.04
+2000,4,Diesel,Manual,802,6,Hatchback,0.32,3000,1,0.59,1,Highway,25.98
+1000,4,Diesel,Manual,1789,7,Compact SUV,0.31,3000,1,0.79,0,Highway,28.23
+2000,4,Electric,Manual,2341,5,Sedan,0.27,2500,0,0.98,0,Urban,25.49
+2000,3,Diesel,Automatic,1916,7,Hatchback,0.3,2500,1,0.75,0,Highway,20.61
+1200,3,Petrol,Manual,1319,4,Sedan,0.28,2000,1,0.54,1,Urban,20.65
+1200,3,Electric,Manual,2251,6,SUV,0.29,2500,1,0.81,0,Urban,27.87
+1200,3,Hybrid,Automatic,1292,4,Sedan,0.31,2500,1,0.67,1,Highway,28.07
+2000,3,Electric,Manual,2058,6,Sedan,0.32,2500,1,0.93,0,Highway,27.21
+1500,4,Petrol,Manual,1419,7,SUV,0.27,3000,1,0.72,1,Highway,21.82
+2000,3,Electric,Automatic,1984,7,Compact SUV,0.29,2000,1,0.6,0,Highway,27.61
+1500,4,Electric,Automatic,1130,4,Hatchback,0.28,3000,0,0.6,0,Urban,30.63
+1500,3,Petrol,Automatic,1132,6,SUV,0.27,3500,0,0.88,1,Highway,23.09
+1200,6,Electric,Automatic,849,6,Sedan,0.33,3000,1,0.63,0,Highway,34.38
+1800,4,Petrol,Manual,2346,7,Hatchback,0.34,3500,0,0.88,0,Highway,16.53
+1000,6,Petrol,Manual,1662,4,SUV,0.29,1500,0,0.6,0,Highway,24.79
+1200,4,Hybrid,Automatic,2491,6,Hatchback,0.33,1500,0,0.66,1,Highway,23.6
+1200,6,Diesel,Automatic,2315,7,Hatchback,0.34,3500,1,0.73,0,Urban,17.94
+1800,3,Diesel,Manual,2405,5,SUV,0.33,3500,1,0.97,1,Highway,20.33
+1000,3,Electric,Automatic,1071,4,Hatchback,0.27,3000,1,0.97,1,Urban,30.57
+2000,3,Electric,Manual,1379,5,Compact SUV,0.35,3500,1,0.6,1,Highway,34.48
+2000,4,Hybrid,Automatic,2075,4,SUV,0.29,2000,1,0.68,0,Highway,20.49
+1200,6,Hybrid,Manual,1359,7,Compact SUV,0.28,1500,0,0.57,1,Highway,28.73
+1000,3,Hybrid,Automatic,1495,6,Sedan,0.26,1500,1,0.75,1,Urban,25.9
+1200,6,Petrol,Automatic,1913,6,Hatchback,0.3,3500,0,0.73,0,Highway,16.09
+1500,6,Hybrid,Manual,1245,6,Sedan,0.26,2500,1,0.95,1,Urban,24.88
+1200,3,Hybrid,Automatic,1816,4,Sedan,0.27,2500,0,0.97,1,Urban,19.98
+1200,3,Electric,Manual,2155,7,Hatchback,0.28,3500,1,0.69,0,Highway,27.94
+2000,6,Hybrid,Manual,1962,5,SUV,0.33,2000,1,0.75,0,Urban,21.06
+2000,3,Petrol,Manual,1156,7,Hatchback,0.34,2500,1,0.95,1,Highway,24.77
+2000,3,Petrol,Manual,2424,5,Sedan,0.28,3500,1,0.9,0,Highway,18.2
+1500,3,Electric,Manual,1073,4,Sedan,0.34,2000,1,0.5,0,Urban,33.75
+2000,4,Hybrid,Automatic,1842,4,SUV,0.34,2000,1,0.66,0,Highway,21.02
+1000,6,Hybrid,Automatic,1110,5,Hatchback,0.33,3000,0,0.71,1,Highway,26.22
+1800,6,Petrol,Manual,1669,5,Sedan,0.26,2000,1,0.61,1,Urban,20.27
+1000,4,Hybrid,Automatic,1685,5,Compact SUV,0.32,2500,0,0.6,0,Urban,25.43
+1000,6,Hybrid,Manual,953,7,Sedan,0.34,2500,1,0.52,1,Urban,30.22
+2000,3,Hybrid,Automatic,2213,5,Sedan,0.32,3500,0,0.82,0,Urban,17.34
+1800,6,Diesel,Automatic,2083,4,SUV,0.28,3500,0,0.63,0,Urban,16.92
+1800,3,Electric,Automatic,1419,4,Compact SUV,0.3,2000,0,0.53,0,Urban,28.6
+1800,4,Diesel,Automatic,1682,6,Sedan,0.31,1500,0,0.62,0,Highway,23.08
+1500,3,Electric,Manual,1596,5,Sedan,0.3,3000,0,0.9,0,Urban,29.49
+2000,6,Petrol,Manual,2394,7,Compact SUV,0.26,1500,0,0.93,1,Urban,15.88
+1800,6,Hybrid,Automatic,924,7,Hatchback,0.28,2000,1,0.74,1,Highway,27.26
+1500,6,Electric,Automatic,2177,7,Hatchback,0.33,2000,0,0.71,1,Highway,27.84
+1200,4,Diesel,Manual,2096,6,Sedan,0.34,1500,1,0.99,1,Urban,19.38
+1200,4,Hybrid,Automatic,1418,4,Sedan,0.26,3000,1,0.6,0,Urban,24.27
+1500,6,Petrol,Manual,1044,7,Hatchback,0.35,1500,0,0.61,0,Highway,23.85
+1500,3,Electric,Manual,1647,4,SUV,0.28,3500,0,0.65,1,Urban,28.74
+2000,4,Electric,Manual,1249,6,Compact SUV,0.32,2500,1,0.59,1,Urban,29.13
+2000,6,Electric,Automatic,1729,5,Compact SUV,0.33,3500,0,0.69,0,Highway,30.08
+1200,6,Hybrid,Manual,2070,5,SUV,0.33,2500,0,0.96,0,Urban,20.3
+1800,4,Diesel,Automatic,1319,5,SUV,0.34,2000,0,0.81,0,Highway,24.7
+1200,4,Diesel,Manual,1964,7,SUV,0.28,3000,0,0.71,1,Urban,18.03
+1800,4,Electric,Automatic,1161,5,SUV,0.34,1500,0,0.97,0,Highway,32.55
+1800,3,Petrol,Automatic,807,7,SUV,0.26,3000,0,0.52,0,Highway,20.73
+2000,3,Petrol,Automatic,1277,6,SUV,0.32,1500,0,0.61,1,Highway,21.32
+1000,6,Diesel,Manual,2175,6,Compact SUV,0.32,3500,1,0.78,1,Urban,19.97
+1000,4,Petrol,Manual,1294,7,SUV,0.32,3500,0,0.81,1,Highway,24.2
+1500,3,Diesel,Automatic,2429,4,Hatchback,0.28,1500,1,0.52,0,Urban,17.29
+2000,4,Electric,Automatic,1632,5,SUV,0.34,3000,1,0.7,0,Highway,31.62
+1800,6,Diesel,Automatic,2250,5,SUV,0.27,1500,1,0.82,1,Highway,19.0
+1000,3,Diesel,Manual,1862,5,Compact SUV,0.26,2000,1,0.85,0,Highway,19.85
+1800,3,Electric,Manual,1392,7,Compact SUV,0.32,3500,0,0.82,0,Urban,30.22
+1000,3,Petrol,Manual,986,6,SUV,0.3,2000,1,0.66,0,Urban,22.12
+1000,6,Diesel,Manual,2419,5,Compact SUV,0.33,3500,1,0.55,1,Highway,22.08
+1000,4,Diesel,Automatic,2423,6,Sedan,0.29,3500,1,0.71,1,Urban,18.59
+2000,3,Electric,Automatic,1553,5,Compact SUV,0.27,2500,1,0.56,0,Urban,31.34
+1200,6,Petrol,Manual,892,5,Compact SUV,0.33,2000,1,0.97,0,Urban,22.27
+1800,4,Diesel,Manual,885,7,Compact SUV,0.3,2000,0,0.74,0,Highway,23.74
+2000,6,Electric,Automatic,1867,4,Compact SUV,0.27,2500,0,0.66,0,Urban,24.06
+2000,4,Diesel,Manual,936,7,Hatchback,0.32,3000,1,0.88,1,Highway,25.72
+2000,6,Hybrid,Manual,1220,5,Hatchback,0.3,2000,0,0.75,1,Highway,25.23
+2000,4,Electric,Manual,873,5,Hatchback,0.31,1500,0,0.66,0,Highway,31.28
+2000,3,Petrol,Manual,2371,4,SUV,0.3,2500,1,0.91,0,Urban,15.31
+1500,4,Petrol,Manual,2436,6,SUV,0.33,2000,1,0.93,1,Highway,19.16
+1800,6,Petrol,Manual,2335,6,Sedan,0.33,3000,1,0.84,0,Urban,16.83
+2000,6,Petrol,Automatic,1979,5,Hatchback,0.32,2000,0,0.52,1,Urban,14.1
+1800,4,Diesel,Manual,2078,6,SUV,0.26,3500,1,0.78,0,Highway,17.82
+1500,3,Diesel,Manual,970,5,Compact SUV,0.33,1500,0,0.88,1,Highway,23.1
+1500,3,Petrol,Automatic,969,4,Compact SUV,0.32,2500,0,0.57,0,Highway,21.51
+1800,4,Petrol,Automatic,1671,4,Hatchback,0.32,3500,0,0.61,0,Urban,18.8
+1000,4,Petrol,Automatic,1121,5,Sedan,0.29,3000,1,0.94,1,Urban,21.51
+1200,6,Diesel,Manual,2390,4,Sedan,0.34,3500,0,0.51,1,Highway,19.73
+1000,3,Petrol,Automatic,1255,7,Compact SUV,0.32,3500,1,0.88,0,Highway,25.03
+1000,4,Petrol,Manual,1743,7,Sedan,0.26,3000,1,0.74,0,Urban,20.21
+1000,3,Hybrid,Manual,2426,4,Hatchback,0.29,3500,1,0.72,1,Urban,22.8
+2000,4,Hybrid,Manual,1589,5,Compact SUV,0.34,2500,1,0.5,1,Highway,28.83
+1500,4,Petrol,Automatic,1412,5,SUV,0.25,2000,1,0.91,0,Urban,21.45
+1000,3,Electric,Automatic,1978,4,SUV,0.35,3500,0,0.68,0,Urban,26.29
+1500,4,Petrol,Automatic,1688,6,Sedan,0.32,2500,0,0.77,1,Urban,20.68
+1800,4,Hybrid,Automatic,1148,7,Compact SUV,0.31,2000,0,0.84,1,Urban,23.7
+1200,6,Electric,Automatic,2274,6,Compact SUV,0.28,2000,0,0.85,1,Urban,24.1
+1800,4,Electric,Manual,2476,5,SUV,0.27,3500,0,0.98,1,Urban,23.27
+1800,4,Petrol,Manual,1996,5,Compact SUV,0.34,2500,1,0.77,1,Highway,17.94
+2000,4,Hybrid,Manual,809,6,Compact SUV,0.28,3500,1,0.7,0,Urban,25.22
+1200,6,Hybrid,Manual,1539,4,Compact SUV,0.33,3000,0,0.98,0,Highway,29.36
+1800,3,Electric,Automatic,2088,6,Sedan,0.29,2000,0,0.82,1,Highway,26.01
+1800,6,Petrol,Automatic,2261,6,Compact SUV,0.26,3500,0,0.65,0,Urban,13.27
+1200,6,Diesel,Manual,2070,7,Hatchback,0.25,2000,1,0.56,0,Highway,20.01
+1200,3,Diesel,Automatic,1466,7,Sedan,0.3,2500,1,0.92,1,Highway,27.19
+1800,6,Hybrid,Automatic,1345,6,Compact SUV,0.35,1500,1,0.68,0,Highway,27.28
+1200,3,Diesel,Manual,2322,6,Compact SUV,0.29,3500,0,0.83,0,Urban,17.42
+1800,6,Hybrid,Manual,928,5,Hatchback,0.29,3500,0,0.74,0,Highway,27.42
+1800,3,Hybrid,Automatic,2495,7,Sedan,0.28,2000,0,0.6,1,Urban,21.2
+2000,4,Hybrid,Automatic,1400,7,SUV,0.3,2500,0,0.8,1,Highway,25.61
+1000,6,Diesel,Manual,1404,5,SUV,0.29,3000,1,0.53,0,Highway,27.19
+1800,6,Hybrid,Manual,1126,4,Sedan,0.34,2500,0,0.71,0,Highway,28.49
+1500,6,Electric,Manual,1779,7,Compact SUV,0.3,3500,0,0.77,0,Highway,30.86
+1000,6,Petrol,Automatic,1203,7,Compact SUV,0.3,3000,0,0.72,0,Urban,19.86
+1000,4,Petrol,Manual,1428,4,SUV,0.26,2500,1,0.87,0,Highway,25.56
+1000,6,Hybrid,Manual,2429,7,SUV,0.35,1500,1,0.91,0,Highway,23.8
+2000,4,Petrol,Automatic,2498,7,SUV,0.27,2000,0,0.89,1,Urban,14.41
+1800,4,Diesel,Automatic,2434,4,Hatchback,0.26,2500,1,0.52,0,Urban,16.54
+2000,4,Diesel,Automatic,2448,4,SUV,0.32,2500,1,0.6,0,Urban,16.55
+1800,4,Petrol,Automatic,2182,6,Hatchback,0.31,1500,1,0.77,1,Highway,16.73
+2000,3,Diesel,Automatic,2426,5,Sedan,0.29,3500,1,0.97,0,Urban,17.64
+2000,3,Petrol,Manual,1517,5,Compact SUV,0.29,2000,1,0.92,0,Urban,21.2
+1500,6,Petrol,Manual,1840,4,SUV,0.33,2500,0,0.92,0,Urban,15.85
+2000,3,Petrol,Automatic,1073,4,Compact SUV,0.27,3000,0,0.65,0,Urban,21.51
+1200,3,Hybrid,Automatic,1484,7,Compact SUV,0.33,2500,0,0.71,1,Urban,26.94
+1500,6,Petrol,Automatic,915,6,SUV,0.31,2000,1,0.74,0,Urban,18.77
+2000,6,Hybrid,Automatic,1660,6,SUV,0.29,2500,1,0.58,1,Highway,26.56
+1000,6,Petrol,Automatic,1492,4,Sedan,0.3,1500,1,0.52,0,Urban,23.93
+1200,3,Petrol,Manual,1914,7,Hatchback,0.28,2500,1,0.97,0,Highway,18.63
+1200,3,Petrol,Manual,1905,7,Hatchback,0.33,2500,0,0.62,1,Urban,18.29
+1200,6,Diesel,Manual,1123,5,Compact SUV,0.3,3000,0,0.62,0,Urban,22.77
+1500,4,Hybrid,Manual,1760,5,SUV,0.28,1500,0,0.54,1,Urban,25.52
+2000,6,Hybrid,Automatic,913,7,Sedan,0.31,1500,0,0.96,1,Highway,26.86
+2000,4,Petrol,Manual,1881,5,Sedan,0.35,2500,0,0.79,1,Urban,14.91
+1000,4,Petrol,Automatic,953,4,Sedan,0.29,3000,0,0.83,0,Urban,20.99
+1000,6,Diesel,Automatic,2227,7,Sedan,0.34,2500,1,0.96,0,Urban,20.07
+1200,6,Diesel,Automatic,2451,5,Sedan,0.28,2500,1,0.67,0,Urban,18.96
+1000,6,Diesel,Manual,2089,6,Hatchback,0.26,2000,0,0.81,0,Highway,20.64
+1500,3,Hybrid,Automatic,1114,7,Hatchback,0.27,2000,1,0.52,1,Highway,29.42
+2000,4,Hybrid,Manual,1864,7,Hatchback,0.29,3000,0,0.59,0,Highway,22.88
+1200,3,Hybrid,Manual,904,6,SUV,0.27,3500,0,0.92,0,Highway,27.47
+1000,3,Petrol,Automatic,2016,4,Compact SUV,0.25,2000,1,0.88,1,Highway,20.48
+1500,6,Hybrid,Automatic,2224,6,Sedan,0.34,3500,0,0.68,1,Urban,20.39
+1500,3,Electric,Automatic,2101,7,SUV,0.33,1500,0,0.69,0,Urban,24.54
+1000,6,Electric,Manual,1153,4,Sedan,0.32,2000,0,0.77,1,Urban,29.48
+2000,4,Diesel,Automatic,1815,5,Hatchback,0.27,2000,1,0.5,1,Highway,17.62
+1000,6,Hybrid,Manual,1532,5,SUV,0.26,3000,1,0.62,1,Urban,29.2
+1200,3,Electric,Automatic,2403,5,Hatchback,0.26,3500,1,0.6,1,Highway,29.94
+1000,3,Diesel,Automatic,1508,7,Sedan,0.32,2000,1,0.63,1,Urban,23.59
+1500,6,Hybrid,Manual,2079,6,Sedan,0.34,2000,0,0.9,0,Highway,20.98
+1000,6,Petrol,Manual,1450,4,Compact SUV,0.29,3000,1,0.64,0,Urban,21.41
+2000,3,Electric,Manual,1623,5,Sedan,0.26,3000,1,0.6,0,Urban,29.38
+1800,4,Petrol,Manual,1746,4,Hatchback,0.3,3500,1,0.75,0,Urban,19.64
+1000,4,Hybrid,Manual,1460,7,Sedan,0.28,1500,0,0.93,0,Urban,28.53
+2000,6,Electric,Manual,898,5,Compact SUV,0.29,1500,1,0.62,0,Highway,35.06
+2000,4,Hybrid,Automatic,1387,7,Compact SUV,0.31,2500,1,0.54,0,Urban,23.88
+1500,3,Petrol,Automatic,1081,6,Hatchback,0.32,2000,0,0.68,1,Urban,19.74
+2000,6,Electric,Manual,1202,7,SUV,0.26,3500,0,0.87,0,Urban,28.72
+2000,3,Petrol,Automatic,1932,7,Sedan,0.25,2000,0,0.78,0,Highway,15.98
+2000,3,Hybrid,Manual,1499,6,Compact SUV,0.35,3500,0,0.91,0,Urban,26.64
+2000,4,Hybrid,Automatic,998,4,Sedan,0.27,3500,1,0.98,1,Urban,26.08
+1200,6,Petrol,Automatic,2126,6,Sedan,0.26,3500,0,0.9,0,Urban,16.01
+1200,6,Electric,Manual,1126,6,SUV,0.27,2000,1,0.8,0,Urban,32.01
+1500,4,Petrol,Manual,953,7,Compact SUV,0.25,3000,1,0.75,1,Urban,23.01
+1000,3,Hybrid,Manual,1351,4,Sedan,0.29,2000,1,0.52,0,Highway,30.15
+2000,3,Petrol,Automatic,2468,5,Compact SUV,0.33,3500,1,0.99,0,Highway,17.4
+1000,3,Hybrid,Manual,1204,6,Hatchback,0.28,2500,1,0.69,1,Highway,29.38
+1000,3,Petrol,Automatic,1261,4,Hatchback,0.29,1500,0,0.58,0,Urban,20.82
+1500,6,Electric,Manual,931,6,Sedan,0.32,3500,1,0.83,1,Highway,34.04
+2000,6,Electric,Automatic,1590,6,Compact SUV,0.3,2500,1,0.64,0,Urban,29.46
+2000,4,Petrol,Automatic,1673,6,Sedan,0.34,3000,1,0.79,0,Urban,19.23
+1800,4,Petrol,Manual,883,6,Compact SUV,0.34,3500,0,0.79,0,Urban,19.3
+1000,6,Electric,Automatic,2222,7,Compact SUV,0.25,2500,1,0.72,1,Urban,25.57
+1000,6,Hybrid,Automatic,1553,4,SUV,0.33,3500,1,0.92,1,Highway,28.31
+1200,3,Electric,Manual,1427,4,SUV,0.3,2000,0,0.63,1,Highway,32.85
+1800,3,Hybrid,Automatic,1932,4,SUV,0.35,2500,1,0.72,0,Highway,21.68
+1200,4,Petrol,Manual,1020,6,Sedan,0.3,2000,1,0.77,0,Urban,21.51
+1200,6,Petrol,Manual,1352,7,SUV,0.35,2000,0,0.83,1,Highway,23.49
+1200,4,Hybrid,Manual,2191,6,SUV,0.33,2500,1,0.89,1,Highway,25.58
+1500,6,Petrol,Manual,1970,6,Hatchback,0.27,1500,1,0.7,0,Urban,16.74
+1500,3,Hybrid,Automatic,911,4,Compact SUV,0.3,2500,1,0.82,0,Highway,27.67
+1200,4,Diesel,Automatic,1414,6,Compact SUV,0.35,1500,1,0.58,0,Urban,22.27
+1800,4,Electric,Automatic,2381,5,SUV,0.34,3500,1,0.97,0,Highway,27.08
+1000,6,Diesel,Manual,1723,6,Compact SUV,0.26,3500,0,0.69,1,Highway,26.69
+1800,3,Hybrid,Automatic,2317,5,Hatchback,0.32,2500,0,0.86,0,Highway,22.34
+2000,4,Electric,Automatic,2328,6,Hatchback,0.28,3500,0,0.51,0,Urban,24.97
+1500,3,Hybrid,Manual,1274,7,SUV,0.25,3000,1,0.6,0,Highway,29.69
+1000,4,Electric,Manual,1635,7,Hatchback,0.29,2000,1,0.74,0,Highway,34.94
+1000,3,Electric,Automatic,1070,4,Compact SUV,0.27,2000,1,0.94,0,Highway,33.9
+2000,6,Electric,Manual,1220,6,Sedan,0.33,1500,0,0.76,0,Highway,32.24
+2000,4,Electric,Manual,1506,5,Compact SUV,0.28,3500,1,0.96,0,Urban,30.58
+1200,4,Hybrid,Manual,2190,5,Sedan,0.33,1500,1,0.74,1,Urban,22.28
+1500,3,Electric,Manual,2103,6,SUV,0.25,2000,1,0.75,1,Highway,28.97
+1500,3,Electric,Automatic,2106,5,Sedan,0.28,2000,0,0.56,1,Highway,27.38
+1800,4,Diesel,Manual,839,7,Hatchback,0.27,3500,0,0.9,0,Highway,24.4
+1200,6,Petrol,Manual,988,5,Compact SUV,0.27,3000,1,0.62,1,Urban,24.31
+1200,3,Petrol,Manual,1987,4,Sedan,0.26,3000,1,0.95,0,Highway,17.99
+1200,3,Diesel,Manual,1793,7,Compact SUV,0.27,3500,1,0.96,0,Highway,26.95
+1200,3,Diesel,Manual,2359,7,SUV,0.31,3500,0,0.97,0,Urban,18.16
+1500,4,Hybrid,Manual,1335,7,SUV,0.28,1500,0,0.76,0,Urban,25.75
+1500,4,Hybrid,Manual,1827,6,Hatchback,0.29,3500,0,0.84,1,Urban,19.94
+1200,4,Hybrid,Manual,1089,6,SUV,0.29,3000,1,0.89,0,Highway,30.22
+1800,4,Diesel,Automatic,1232,7,Sedan,0.34,3500,0,0.57,0,Urban,21.95
+1000,6,Diesel,Manual,1270,6,SUV,0.34,1500,1,0.8,1,Urban,25.33
+1000,6,Electric,Automatic,2004,5,Hatchback,0.3,1500,1,0.52,1,Highway,28.67
+1800,4,Hybrid,Manual,2071,6,Compact SUV,0.28,1500,0,0.75,1,Urban,19.98
+1200,6,Hybrid,Manual,1427,6,Compact SUV,0.26,1500,1,0.58,0,Highway,29.13
+1500,3,Hybrid,Manual,1078,7,SUV,0.35,2500,0,0.59,1,Highway,28.18
+1000,3,Petrol,Manual,1676,4,Sedan,0.26,3500,1,0.68,0,Urban,20.49
+2000,3,Electric,Automatic,1380,4,Hatchback,0.28,2000,1,0.72,0,Highway,32.87
+2000,4,Hybrid,Manual,1662,4,Sedan,0.28,3500,0,0.81,1,Urban,27.43
+1800,3,Hybrid,Manual,1053,5,Hatchback,0.28,2500,1,0.54,1,Urban,26.78
+1200,6,Hybrid,Automatic,980,6,SUV,0.27,1500,1,0.75,1,Urban,25.92
+1000,4,Petrol,Automatic,1480,4,Hatchback,0.33,2500,1,0.59,0,Highway,23.34
+1200,6,Petrol,Manual,1624,7,Hatchback,0.26,3000,1,0.79,0,Urban,22.91
+1000,3,Diesel,Automatic,2332,4,SUV,0.31,3000,1,0.82,0,Highway,20.24
+1800,3,Electric,Automatic,1499,4,Sedan,0.26,3500,1,0.78,0,Highway,33.17
+1800,3,Diesel,Automatic,1365,6,SUV,0.26,3500,1,0.87,0,Highway,24.13
+2000,4,Electric,Manual,2149,6,Hatchback,0.34,2000,1,0.67,0,Urban,27.71
+1200,6,Petrol,Manual,2180,6,SUV,0.27,2000,0,0.88,1,Highway,19.89
+2000,4,Hybrid,Manual,2473,5,Hatchback,0.33,3000,0,0.72,0,Highway,21.67
+1200,4,Diesel,Automatic,1479,5,SUV,0.3,1500,1,0.74,1,Urban,23.12
+2000,3,Hybrid,Manual,1190,4,Compact SUV,0.26,2500,1,0.82,1,Urban,25.98
+1500,4,Diesel,Automatic,2438,6,Compact SUV,0.35,2000,0,0.51,1,Highway,18.74
+1500,4,Petrol,Manual,1908,4,SUV,0.27,2000,1,0.83,1,Highway,17.8
+1500,3,Petrol,Manual,2140,7,Sedan,0.34,1500,0,0.81,1,Urban,14.66
+1500,4,Petrol,Automatic,1011,7,Hatchback,0.27,1500,0,0.65,0,Highway,23.0
+1000,3,Diesel,Manual,2338,6,Compact SUV,0.34,3500,0,0.54,0,Highway,21.59
+1500,3,Electric,Automatic,1183,6,Sedan,0.25,2500,1,0.55,0,Highway,33.82
+1800,3,Diesel,Automatic,1141,7,Hatchback,0.3,1500,1,0.96,0,Highway,24.23
+1800,3,Electric,Manual,1643,6,Compact SUV,0.33,2000,1,0.84,1,Urban,33.19
+1000,4,Diesel,Automatic,1861,5,Compact SUV,0.34,2000,0,0.56,1,Highway,19.48
+1500,3,Diesel,Manual,2334,5,SUV,0.34,3000,0,0.68,1,Urban,18.61
+1500,3,Petrol,Manual,1219,6,Hatchback,0.33,1500,0,0.8,0,Highway,21.36
+1500,4,Hybrid,Automatic,1550,7,Sedan,0.34,3500,1,0.92,0,Urban,25.52
+2000,4,Hybrid,Manual,1992,4,Sedan,0.27,2500,0,0.52,0,Highway,21.84
+1200,6,Electric,Automatic,2166,6,Sedan,0.28,3500,0,0.62,0,Urban,25.13
+2000,4,Hybrid,Manual,1105,6,Hatchback,0.28,2000,1,0.94,1,Highway,26.67
+1200,4,Diesel,Manual,2365,4,Sedan,0.29,3500,0,0.5,1,Urban,18.9
+1500,6,Diesel,Manual,1501,6,Sedan,0.29,2000,0,0.6,0,Highway,25.78
+1500,4,Petrol,Manual,1668,4,Sedan,0.3,2000,1,0.98,0,Highway,23.01
+2000,4,Petrol,Manual,1336,7,SUV,0.27,2000,1,0.81,1,Urban,19.85
+2000,4,Hybrid,Automatic,1935,5,SUV,0.32,2000,0,0.63,1,Urban,18.23
+1200,4,Electric,Automatic,2234,7,Hatchback,0.27,2000,1,0.53,1,Urban,26.7
+1800,6,Hybrid,Automatic,1005,5,Hatchback,0.28,3000,0,0.51,1,Urban,23.7
+1200,4,Hybrid,Automatic,2008,4,Sedan,0.3,3500,1,0.62,0,Urban,21.07
+2000,4,Hybrid,Automatic,2205,5,SUV,0.33,3000,0,0.94,1,Highway,19.93
+2000,6,Hybrid,Automatic,1295,7,Compact SUV,0.32,3000,1,0.71,1,Urban,26.98
+1000,3,Diesel,Manual,2202,5,Compact SUV,0.31,1500,0,0.86,1,Urban,18.57
+2000,6,Electric,Manual,1870,4,Sedan,0.27,1500,1,0.96,1,Highway,29.15
+1000,3,Diesel,Automatic,2374,5,Sedan,0.3,1500,1,0.7,0,Urban,18.99
+1800,6,Electric,Automatic,2351,6,SUV,0.26,2500,1,0.6,0,Urban,25.26
+1200,6,Petrol,Manual,1303,7,SUV,0.29,1500,1,0.76,0,Urban,22.11
+1200,4,Hybrid,Manual,1845,6,SUV,0.29,3500,1,0.95,0,Highway,23.47
+1000,3,Diesel,Manual,1012,4,Hatchback,0.25,3000,1,0.9,0,Urban,24.05
+1200,4,Electric,Automatic,1109,5,Hatchback,0.28,3500,1,0.53,0,Highway,32.19
+2000,3,Petrol,Automatic,1460,6,Sedan,0.35,1500,0,0.85,1,Highway,19.88
+1500,6,Petrol,Automatic,1552,6,Hatchback,0.35,2500,0,0.79,1,Urban,21.84
+1000,6,Hybrid,Manual,1071,5,SUV,0.29,2500,1,0.95,1,Highway,29.78
+1200,3,Electric,Manual,2394,5,SUV,0.25,3000,1,0.56,1,Urban,28.67
+1000,4,Diesel,Automatic,1737,7,Hatchback,0.27,3500,0,0.77,0,Urban,21.71
+1000,4,Hybrid,Automatic,2025,6,Compact SUV,0.29,2000,0,0.94,1,Urban,19.25
+1500,4,Diesel,Manual,831,6,Sedan,0.34,3500,1,0.71,0,Urban,22.77
+2000,4,Petrol,Manual,1242,4,Compact SUV,0.26,1500,0,0.74,1,Urban,19.58
+1000,6,Diesel,Manual,961,7,Sedan,0.33,2000,0,0.54,1,Highway,25.54
+1200,6,Diesel,Manual,1566,4,Compact SUV,0.26,2500,1,0.64,1,Highway,26.05
+1800,6,Hybrid,Automatic,1053,6,Hatchback,0.35,3000,1,0.66,0,Highway,26.53
+1000,6,Diesel,Manual,1320,4,Sedan,0.29,3000,1,0.97,1,Highway,26.59
+1000,6,Hybrid,Manual,1776,6,Sedan,0.33,2500,0,0.64,0,Urban,26.68
+1500,4,Petrol,Manual,2474,6,Sedan,0.28,1500,1,0.73,0,Urban,17.45
+2000,4,Hybrid,Automatic,2303,4,SUV,0.31,2500,1,0.84,1,Highway,23.47
+1800,4,Hybrid,Automatic,809,4,SUV,0.27,1500,0,0.58,0,Urban,23.94
+1200,4,Electric,Manual,1525,5,Compact SUV,0.26,2000,1,0.74,0,Highway,35.42
+1800,6,Diesel,Manual,1304,5,Hatchback,0.34,2500,0,0.87,1,Highway,24.37
+1200,6,Petrol,Manual,1584,5,SUV,0.34,1500,0,0.93,1,Highway,21.67
+2000,6,Hybrid,Automatic,2383,6,Sedan,0.34,2000,0,0.81,1,Highway,22.78
+1200,3,Petrol,Automatic,1235,4,SUV,0.31,2500,0,0.83,1,Urban,22.47
+1500,4,Electric,Automatic,1934,7,Hatchback,0.33,3000,0,0.56,1,Urban,25.37
+1500,4,Diesel,Manual,952,6,SUV,0.26,2500,0,0.97,1,Highway,24.84
+1500,6,Hybrid,Automatic,2458,7,Sedan,0.28,3500,1,0.57,0,Highway,22.48
+1500,4,Diesel,Manual,1716,4,Compact SUV,0.28,2500,1,0.89,1,Highway,25.29
+1800,4,Electric,Manual,1668,6,Sedan,0.31,3500,1,0.63,1,Highway,34.51
+2000,6,Electric,Manual,1925,7,Hatchback,0.29,2000,0,0.97,0,Highway,26.98
+1200,3,Petrol,Automatic,1552,7,Compact SUV,0.26,2500,1,0.86,1,Urban,22.87
+1200,3,Hybrid,Manual,2014,5,SUV,0.31,2000,0,0.88,0,Highway,23.23
+1500,3,Petrol,Automatic,1362,5,SUV,0.33,2000,1,0.61,1,Highway,22.34
+1500,6,Electric,Automatic,1904,5,SUV,0.29,1500,0,0.72,1,Urban,24.15
+1000,4,Diesel,Manual,1288,6,Compact SUV,0.26,2000,1,0.81,0,Urban,23.76
+2000,6,Petrol,Manual,1694,4,Sedan,0.27,2000,0,0.88,1,Urban,20.51
+1800,6,Petrol,Automatic,1911,4,Compact SUV,0.27,2500,1,0.55,0,Urban,14.01
+1200,4,Diesel,Manual,2017,5,Compact SUV,0.28,2500,0,0.98,1,Urban,17.38
+1000,3,Petrol,Automatic,903,5,Hatchback,0.31,3000,1,0.95,1,Urban,22.82
+1000,3,Diesel,Manual,1919,5,Compact SUV,0.31,1500,0,0.64,0,Urban,17.55
+1200,6,Hybrid,Automatic,2246,7,SUV,0.32,2000,1,0.91,1,Urban,22.06
+1800,3,Diesel,Automatic,2021,5,Sedan,0.29,1500,1,0.76,1,Urban,15.24
+1000,6,Hybrid,Automatic,1824,7,Sedan,0.33,3500,1,0.73,0,Highway,24.95
+1000,6,Diesel,Automatic,1806,4,Sedan,0.27,2000,0,0.66,1,Urban,16.23
+2000,4,Electric,Manual,1206,6,SUV,0.3,1500,0,0.79,0,Highway,31.12
+1800,4,Electric,Manual,2201,6,SUV,0.33,3000,0,0.86,1,Highway,27.98
+1000,4,Hybrid,Automatic,966,6,SUV,0.27,3000,0,0.71,0,Highway,27.77
+1800,6,Hybrid,Automatic,1308,6,SUV,0.26,2000,0,0.81,1,Highway,27.19
+1200,4,Electric,Manual,2461,7,SUV,0.34,3500,1,0.85,0,Highway,27.92
+1500,3,Hybrid,Manual,1112,7,Compact SUV,0.28,3000,0,0.86,0,Highway,27.46
+1000,3,Diesel,Manual,2416,5,SUV,0.32,3000,1,0.53,1,Highway,20.88
+2000,6,Diesel,Manual,2241,7,SUV,0.25,3500,1,0.93,1,Highway,18.89
+1200,6,Electric,Manual,1562,5,SUV,0.32,1500,0,0.73,0,Urban,31.8
+1800,4,Petrol,Manual,1480,5,SUV,0.28,3000,1,0.63,1,Highway,24.24
+1200,6,Diesel,Automatic,1276,6,Sedan,0.26,2500,0,0.62,0,Highway,23.86
+1000,6,Hybrid,Manual,872,7,SUV,0.31,3000,0,0.74,1,Highway,30.02
+1800,3,Petrol,Manual,1964,7,Compact SUV,0.27,1500,0,0.94,1,Highway,16.51
+1500,3,Petrol,Automatic,1381,5,Compact SUV,0.29,1500,1,0.69,0,Urban,22.25
+1200,4,Diesel,Manual,1061,5,Compact SUV,0.26,2000,0,0.87,0,Highway,25.76
+1000,6,Diesel,Manual,2163,4,Hatchback,0.26,2500,0,0.55,1,Urban,17.28
+2000,6,Petrol,Manual,2131,4,Sedan,0.28,1500,0,0.74,1,Urban,16.98
+1800,3,Petrol,Manual,1044,5,SUV,0.26,3500,1,1.0,1,Highway,22.86
+1200,6,Electric,Manual,2338,4,Hatchback,0.34,2500,0,0.89,1,Highway,29.41
+1200,3,Hybrid,Automatic,2160,4,SUV,0.25,2500,1,0.61,1,Urban,21.35
+1500,4,Electric,Manual,2398,5,Hatchback,0.3,3500,1,0.75,0,Highway,29.12
+1500,3,Diesel,Automatic,1360,5,Hatchback,0.26,3000,0,0.62,1,Highway,24.65
+2000,6,Electric,Automatic,1899,7,Compact SUV,0.28,3500,1,0.7,1,Urban,25.85
+2000,4,Electric,Manual,974,5,Compact SUV,0.34,3500,1,0.89,0,Urban,30.66
+1000,3,Electric,Automatic,908,5,Hatchback,0.27,3000,0,0.89,0,Highway,33.03
+1000,3,Electric,Manual,982,6,Compact SUV,0.35,3000,0,0.61,0,Highway,33.96
+2000,4,Hybrid,Automatic,991,7,Hatchback,0.27,3000,0,0.96,1,Highway,26.21
+2000,4,Hybrid,Automatic,864,7,Sedan,0.32,3000,1,0.8,0,Urban,24.8
+1800,3,Petrol,Manual,1762,7,Compact SUV,0.3,3000,0,0.69,0,Highway,22.51
+1500,6,Diesel,Manual,2297,6,Compact SUV,0.34,3500,1,0.75,0,Urban,20.72
+1000,3,Electric,Manual,1923,5,Compact SUV,0.31,2000,1,0.8,0,Urban,27.2
+1500,4,Petrol,Manual,2367,7,Sedan,0.3,2000,1,0.78,1,Highway,19.96
+1500,3,Petrol,Manual,1663,7,Hatchback,0.27,1500,1,0.74,1,Urban,21.13
+2000,4,Petrol,Automatic,1951,4,SUV,0.27,2000,1,0.75,1,Highway,16.12
+1800,4,Hybrid,Automatic,2275,7,Compact SUV,0.34,2000,0,0.59,0,Highway,24.58
+1200,6,Electric,Automatic,1168,5,Hatchback,0.28,3500,0,0.91,0,Urban,30.74
+1800,4,Electric,Automatic,1650,5,Sedan,0.29,3000,1,0.77,0,Highway,32.87
+1800,4,Diesel,Automatic,842,4,SUV,0.33,3000,1,0.57,0,Urban,22.9
+1500,6,Electric,Automatic,2242,7,Compact SUV,0.28,3500,0,0.88,0,Urban,26.16
+1800,4,Electric,Automatic,1287,7,Sedan,0.35,2000,0,0.97,0,Highway,31.71
+1000,6,Petrol,Manual,877,7,Sedan,0.32,3500,1,0.97,1,Highway,25.32
+1500,6,Diesel,Manual,1625,6,SUV,0.31,1500,1,0.68,1,Highway,24.69
+1000,4,Electric,Automatic,2093,7,Hatchback,0.34,3000,0,0.57,0,Highway,28.48
+1200,4,Hybrid,Automatic,1473,5,Compact SUV,0.25,2500,0,0.76,1,Urban,24.96
+1500,3,Electric,Manual,1500,5,Compact SUV,0.28,1500,1,0.56,0,Urban,32.42
+1200,6,Petrol,Manual,1558,6,Hatchback,0.3,1500,0,0.97,0,Urban,19.48
+1500,3,Hybrid,Manual,1527,6,Hatchback,0.27,3500,0,0.59,1,Highway,28.38
+2000,4,Petrol,Manual,2138,7,Hatchback,0.32,2000,1,0.63,0,Urban,13.76
+1800,3,Electric,Automatic,1724,4,SUV,0.34,3000,1,0.7,1,Urban,30.02
+2000,6,Hybrid,Manual,1701,6,SUV,0.29,2500,1,0.69,0,Highway,26.29
+1200,3,Diesel,Automatic,1688,6,Compact SUV,0.28,1500,0,0.9,0,Highway,24.83
+1800,6,Diesel,Automatic,1792,7,SUV,0.35,2500,1,0.73,1,Highway,24.37
+1500,4,Hybrid,Automatic,1991,7,Sedan,0.29,2000,0,0.59,0,Urban,18.98
+1800,4,Hybrid,Manual,1138,6,Compact SUV,0.3,2000,1,0.63,0,Highway,29.73
+1000,6,Petrol,Manual,992,4,SUV,0.29,2500,1,0.75,0,Urban,21.6
+1800,4,Hybrid,Automatic,2276,6,Hatchback,0.34,3000,0,0.57,1,Urban,16.27
+1000,4,Petrol,Automatic,1082,7,Sedan,0.31,2000,0,0.81,0,Urban,21.01
+1800,4,Electric,Automatic,2159,7,Hatchback,0.33,2500,1,0.78,0,Urban,23.53
+1000,4,Petrol,Manual,1189,6,Compact SUV,0.33,1500,1,0.86,0,Urban,21.63
+1200,6,Hybrid,Automatic,1799,4,Hatchback,0.28,2500,0,0.97,1,Highway,26.68
+2000,3,Hybrid,Manual,1324,6,SUV,0.29,2500,1,0.96,1,Urban,24.58
+1500,3,Electric,Automatic,2063,6,SUV,0.33,3500,0,0.97,1,Highway,26.26
+1800,4,Hybrid,Automatic,2306,7,Compact SUV,0.29,2000,0,0.62,1,Urban,17.89
+2000,3,Hybrid,Automatic,1458,4,Hatchback,0.33,3000,1,0.57,1,Urban,25.16
+1500,3,Diesel,Manual,1515,5,Compact SUV,0.34,3000,0,0.65,0,Highway,23.52
+1500,4,Diesel,Manual,2415,4,Hatchback,0.31,3500,0,0.95,1,Urban,17.78
+1000,4,Electric,Automatic,1690,6,Sedan,0.32,3000,0,0.99,1,Urban,31.66
+1200,3,Petrol,Manual,2378,6,SUV,0.33,2500,1,0.93,0,Highway,19.98
+1200,6,Diesel,Automatic,2281,6,Compact SUV,0.33,3500,0,0.56,1,Highway,19.12
+2000,4,Petrol,Manual,1912,4,Sedan,0.29,1500,1,0.97,0,Urban,15.01
+1200,6,Hybrid,Manual,2483,7,Sedan,0.26,2000,1,0.71,1,Urban,22.36
+1800,3,Diesel,Manual,1918,6,Compact SUV,0.29,2000,1,0.5,0,Urban,17.6
+1200,4,Electric,Automatic,1251,6,Compact SUV,0.32,2000,0,0.72,0,Highway,32.4
+2000,6,Electric,Manual,1227,4,Sedan,0.3,2500,0,0.52,1,Urban,28.28
+1200,4,Electric,Manual,1974,5,Hatchback,0.32,1500,1,0.77,1,Highway,30.01
+1800,3,Diesel,Automatic,2337,5,Sedan,0.29,3500,1,0.67,0,Highway,19.33
+1000,6,Petrol,Automatic,2199,7,Compact SUV,0.31,3500,0,0.74,0,Urban,17.71
+2000,3,Hybrid,Automatic,1845,7,Sedan,0.27,2000,1,0.81,0,Highway,23.31
+1000,3,Petrol,Automatic,1682,6,Hatchback,0.32,1500,1,0.93,0,Urban,22.07
+1000,4,Petrol,Manual,1112,4,SUV,0.3,1500,0,0.83,0,Urban,21.38
+1000,6,Hybrid,Manual,1639,6,SUV,0.27,1500,1,0.72,0,Highway,28.77
+1500,3,Hybrid,Manual,1318,7,Sedan,0.28,3000,0,0.91,0,Highway,28.69
+1500,3,Diesel,Manual,2029,4,Hatchback,0.32,3000,0,0.95,1,Highway,19.52
+1000,6,Diesel,Manual,1174,4,SUV,0.3,2000,1,0.56,0,Highway,27.67
+2000,3,Diesel,Automatic,1250,7,Sedan,0.27,1500,0,0.77,1,Highway,23.4
+1800,3,Diesel,Manual,2449,5,Sedan,0.35,1500,0,0.64,1,Highway,19.71
+1800,6,Diesel,Manual,1814,5,Hatchback,0.32,3500,0,0.52,0,Urban,17.89
+1200,6,Hybrid,Manual,1394,4,Compact SUV,0.35,3500,1,0.83,0,Urban,26.28
+2000,6,Petrol,Automatic,2002,6,Sedan,0.29,2000,1,0.93,1,Urban,13.98
+1500,6,Diesel,Automatic,2033,5,Compact SUV,0.3,1500,1,0.58,0,Highway,18.69
+1000,4,Diesel,Manual,1299,6,Compact SUV,0.34,2000,0,0.91,0,Highway,26.55
+1200,6,Petrol,Automatic,1263,5,SUV,0.3,3500,0,0.93,1,Highway,21.25
+1800,4,Diesel,Automatic,1947,5,Compact SUV,0.32,3500,1,0.96,1,Urban,16.48
+1500,4,Petrol,Automatic,912,6,Hatchback,0.28,3000,1,0.63,1,Urban,21.29
+1500,4,Petrol,Automatic,1835,7,SUV,0.29,2000,0,0.95,0,Highway,16.5
+1000,3,Hybrid,Automatic,1949,5,SUV,0.26,2000,1,0.66,0,Highway,23.12
+1800,4,Electric,Automatic,2388,5,SUV,0.27,1500,1,0.78,1,Highway,26.83
+2000,4,Hybrid,Automatic,1130,6,Sedan,0.25,1500,1,0.53,0,Highway,24.67
+1500,3,Electric,Manual,2106,7,Sedan,0.25,3000,1,0.52,1,Urban,25.78
+1000,3,Electric,Manual,939,5,Compact SUV,0.35,2500,1,0.86,0,Urban,33.68
+2000,3,Electric,Automatic,2224,5,SUV,0.27,2500,0,0.72,1,Urban,23.46
+1800,6,Diesel,Manual,1701,7,SUV,0.32,2500,1,0.63,0,Highway,23.4
+1500,3,Hybrid,Manual,1920,5,Hatchback,0.33,2000,1,0.6,1,Urban,20.74
+2000,3,Electric,Automatic,1316,7,Compact SUV,0.31,2000,0,0.83,0,Highway,31.36
+2000,4,Petrol,Manual,1368,7,Hatchback,0.27,3500,0,0.5,0,Highway,22.34
+2000,3,Diesel,Automatic,1645,6,Compact SUV,0.32,2000,0,0.9,1,Highway,22.71
+1500,6,Hybrid,Automatic,1892,4,Compact SUV,0.31,2000,0,0.54,0,Urban,19.06
+1500,3,Electric,Automatic,917,7,Sedan,0.32,2000,1,0.6,0,Urban,29.35
+1200,6,Petrol,Manual,1687,6,Sedan,0.33,3000,1,0.69,1,Highway,24.57
+1800,3,Hybrid,Manual,1882,4,Hatchback,0.35,2000,1,0.74,0,Urban,22.14
+1000,3,Hybrid,Manual,1856,5,Compact SUV,0.31,1500,1,0.68,0,Highway,25.79
+2000,3,Diesel,Manual,2141,4,SUV,0.28,1500,0,0.66,0,Highway,17.89
+1200,3,Hybrid,Automatic,849,7,Sedan,0.31,3500,0,0.98,1,Highway,28.57
+1000,6,Diesel,Automatic,2312,7,SUV,0.26,3000,1,0.82,1,Urban,18.44
+1200,6,Electric,Manual,818,7,Hatchback,0.34,1500,1,0.51,1,Urban,32.23
+1500,4,Diesel,Automatic,1525,7,Sedan,0.26,3000,1,0.72,1,Highway,25.64
+2000,6,Petrol,Automatic,996,7,Sedan,0.28,3000,1,0.94,1,Urban,19.46
+1000,3,Diesel,Manual,2273,6,Compact SUV,0.33,3500,0,0.65,0,Urban,16.34
+1000,4,Petrol,Automatic,1358,7,Hatchback,0.31,3000,1,0.55,0,Urban,22.2
+1000,4,Diesel,Manual,1251,6,Compact SUV,0.29,2000,0,0.88,1,Urban,23.85
+1000,4,Hybrid,Automatic,1088,5,Sedan,0.3,3000,0,0.8,0,Highway,27.14
+1000,3,Electric,Manual,1964,7,Hatchback,0.34,3500,0,0.79,0,Urban,27.12
+1200,6,Petrol,Automatic,1907,7,Sedan,0.28,3500,0,0.53,0,Highway,18.03
+2000,3,Diesel,Automatic,1190,4,Hatchback,0.34,3500,1,0.57,0,Highway,22.49
+1500,4,Diesel,Manual,2414,5,Sedan,0.26,1500,1,0.81,1,Urban,18.77
+1500,3,Diesel,Manual,1014,7,SUV,0.33,2000,1,0.6,1,Highway,23.47
+1500,3,Hybrid,Manual,2349,7,SUV,0.33,1500,1,0.75,0,Highway,23.63
+1500,6,Hybrid,Manual,1014,5,Compact SUV,0.27,2500,0,0.77,0,Urban,25.38
+1200,6,Petrol,Automatic,2226,6,SUV,0.29,2000,0,0.64,1,Highway,17.69
+1800,4,Petrol,Automatic,927,7,Sedan,0.27,3000,0,0.97,0,Highway,20.23
+2000,3,Hybrid,Manual,2300,4,Sedan,0.32,3500,1,0.92,0,Urban,20.58
+1000,3,Petrol,Automatic,1559,7,SUV,0.3,2500,0,0.86,0,Urban,17.28
+1800,6,Electric,Manual,1203,4,Compact SUV,0.31,2000,0,0.54,1,Urban,30.86
+1500,3,Electric,Manual,1852,4,SUV,0.27,1500,0,0.55,1,Urban,25.66
+1800,3,Hybrid,Automatic,1137,7,Hatchback,0.27,3500,0,0.75,0,Urban,24.39
+2000,3,Petrol,Automatic,1630,7,Hatchback,0.25,1500,1,0.58,0,Highway,20.51
+1000,6,Diesel,Manual,1513,4,Hatchback,0.28,2000,0,0.99,0,Highway,25.9
+1000,4,Electric,Manual,1160,5,SUV,0.31,2000,0,0.58,0,Urban,33.15
+2000,4,Hybrid,Manual,1368,5,SUV,0.34,2500,1,0.74,0,Urban,25.82
+2000,3,Petrol,Automatic,2215,7,SUV,0.32,3000,1,0.68,0,Highway,17.65
+1500,4,Hybrid,Automatic,1017,6,Hatchback,0.29,1500,1,0.82,1,Urban,24.88
+1000,6,Diesel,Automatic,2397,5,Compact SUV,0.35,2500,0,0.56,1,Urban,17.42
+1800,6,Electric,Automatic,2492,7,Sedan,0.32,3500,0,0.72,0,Highway,24.77
+1200,4,Hybrid,Manual,1001,5,SUV,0.34,3000,0,0.64,1,Highway,28.99
+1200,4,Hybrid,Manual,816,6,Compact SUV,0.3,2500,0,0.94,0,Highway,28.36
+2000,3,Hybrid,Manual,1121,7,Sedan,0.28,1500,1,0.52,0,Urban,24.78
+1500,4,Diesel,Manual,1317,6,Sedan,0.26,2000,0,0.96,1,Highway,23.95
+1200,3,Hybrid,Manual,2393,7,Sedan,0.32,3500,0,0.92,1,Urban,21.26
+1000,3,Diesel,Manual,2148,6,Compact SUV,0.26,1500,1,0.65,0,Highway,22.42
+2000,6,Diesel,Automatic,2235,5,Compact SUV,0.28,3000,1,0.89,0,Urban,18.48
+1800,6,Diesel,Automatic,2141,5,Hatchback,0.3,3000,1,0.52,1,Urban,17.17
+2000,6,Electric,Manual,1480,6,Compact SUV,0.31,2000,0,0.98,1,Urban,28.64
+1800,6,Electric,Manual,1905,6,Compact SUV,0.31,2000,0,0.76,0,Highway,27.54
+2000,4,Hybrid,Automatic,2297,6,Compact SUV,0.27,3500,0,0.65,0,Highway,22.78
+2000,6,Hybrid,Automatic,2291,7,Sedan,0.29,3500,0,0.68,0,Highway,19.38
+2000,4,Electric,Automatic,1224,5,SUV,0.31,2000,0,0.53,1,Urban,28.05
+1800,6,Petrol,Automatic,2027,7,Hatchback,0.35,2000,1,0.99,0,Highway,17.91
+1800,4,Electric,Manual,2406,5,SUV,0.32,3000,1,0.52,1,Highway,28.45
+2000,3,Diesel,Manual,1818,4,SUV,0.34,2000,0,0.83,0,Urban,16.45
+1200,4,Electric,Manual,1186,7,Compact SUV,0.33,2500,0,0.72,1,Urban,31.42
+1500,4,Diesel,Manual,1577,5,Hatchback,0.31,1500,0,0.97,1,Highway,25.73
+1500,6,Hybrid,Manual,897,5,SUV,0.27,2000,0,0.62,1,Highway,27.65
+1500,4,Petrol,Automatic,2168,7,SUV,0.32,3500,0,0.77,1,Highway,16.56
+1800,3,Hybrid,Manual,1007,7,Hatchback,0.31,2500,1,0.74,0,Urban,26.89
+1800,3,Diesel,Automatic,2337,5,Compact SUV,0.31,3500,1,0.85,1,Highway,19.03
+1200,6,Diesel,Manual,2459,7,SUV,0.3,2500,1,0.53,1,Urban,20.34
+1500,3,Diesel,Manual,1385,6,Sedan,0.3,2000,0,0.6,1,Urban,24.78
+1500,4,Petrol,Manual,965,7,SUV,0.28,1500,0,0.61,0,Highway,21.86
+2000,3,Electric,Manual,821,7,Sedan,0.3,3500,1,0.87,0,Highway,31.75
+1800,6,Hybrid,Manual,953,7,Compact SUV,0.27,2500,1,0.59,0,Urban,26.67
+1500,4,Hybrid,Automatic,2262,5,SUV,0.33,3000,0,0.79,0,Urban,18.46
+1200,6,Electric,Automatic,2118,6,Hatchback,0.27,2000,1,0.61,0,Highway,26.9
+1200,4,Hybrid,Automatic,1018,4,Hatchback,0.26,1500,1,0.93,0,Highway,26.15
+1500,3,Petrol,Manual,1468,4,SUV,0.29,2000,0,0.97,1,Highway,22.37
+1800,6,Hybrid,Manual,2318,6,Compact SUV,0.32,3000,1,0.76,1,Urban,21.27
+1200,6,Diesel,Automatic,1029,6,Compact SUV,0.29,1500,1,0.68,1,Urban,22.68
+2000,4,Electric,Manual,819,6,Hatchback,0.28,3000,1,0.62,0,Highway,34.39
+1200,6,Petrol,Manual,1352,5,SUV,0.31,2000,0,0.52,1,Urban,22.52
+1000,4,Electric,Automatic,1749,4,Compact SUV,0.28,2500,1,0.63,1,Urban,33.43
+1000,4,Petrol,Manual,947,6,Hatchback,0.34,2000,1,0.83,0,Highway,24.55
+1800,4,Diesel,Automatic,1931,5,Sedan,0.34,2000,1,0.77,1,Urban,18.48
+1500,4,Electric,Manual,1202,4,SUV,0.3,2000,0,0.97,0,Highway,33.06
